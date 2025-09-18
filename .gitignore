@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/1v1.lol-data-dump/CopilotIndices/17.14.827.52834
+/dump/GET/ads-img.mozilla.org/v1/images
+/dump/GET/aus5.mozilla.org/update/3/SystemAddons/143.0/20250908174027/WINNT_x86_64-msvc-x64/en-US/release/Windows_NT%252010.0.0.0.19045.6332%2520(x64)/default/default/update.xml
+/dump/GET/content-signature-2.cdn.mozilla.net/g/chains/202402/remote-settings.content-signature.mozilla.org-2025-10-19-08-10-44.chain
+/.vs
