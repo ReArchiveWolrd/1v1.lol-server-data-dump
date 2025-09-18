@@ -1,0 +1,33 @@
+{
+  "method": "GET",
+  "url": "https://cm.g.doubleclick.net/pixel?google_nid=beeswaxio\u0026google_sc=\u0026google_hm=QUFGQmZrN1JtSndBQUJ4MzZwdzRTdw\u0026bee_sync_partners=pm%2Csas%2Cdtech%2Cpp%2Canx\u0026bee_sync_current_partner=adx\u0026bee_sync_initiator=anx\u0026bee_sync_hop_count=1",
+  "timestamp": "20250918_182225",
+  "query": "?google_nid=beeswaxio\u0026google_sc=\u0026google_hm=QUFGQmZrN1JtSndBQUJ4MzZwdzRTdw\u0026bee_sync_partners=pm%2Csas%2Cdtech%2Cpp%2Canx\u0026bee_sync_current_partner=adx\u0026bee_sync_initiator=anx\u0026bee_sync_hop_count=1",
+  "headers": {
+    "Host": "cm.g.doubleclick.net",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0",
+    "Accept": "image/avif,image/webp,image/png,image/svg\u002Bxml,image/*;q=0.8,*/*;q=0.5",
+    "Accept-Language": "en-US,en;q=0.5",
+    "Referer": "https://acdn.adnxs.com/",
+    "Connection": "keep-alive",
+    "Cookie": "IDE=AHWqTUnhPlCKD4KNd9lh6-ybWN6EqX1uVy-XW52iZyFt7s9zrpI6q1MM0evyt7pJddo",
+    "Sec-Fetch-Dest": "image",
+    "Sec-Fetch-Mode": "no-cors",
+    "Sec-Fetch-Site": "cross-site",
+    "Priority": "u=6, i",
+    "Pragma": "no-cache",
+    "Cache-Control": "no-cache",
+    "Accept-Encoding": "gzip, deflate"
+  },
+  "response_status": 200,
+  "response_headers": {
+    "Cache-Control": "must-revalidate, no-cache",
+    "Date": "Thu, 18 Sep 2025 18:22:25 GMT",
+    "P3P": "CP=\u0022This is not a P3P policy! See https://beeswax.com/privacy for more info.\u0022",
+    "Pragma": "no-cache",
+    "Server": "gunicorn",
+    "Strict-Transport-Security": "max-age=2592000; includeSubDomains",
+    "Connection": "keep-alive"
+  },
+  "response_filename": "pixel"
+}

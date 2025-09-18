@@ -1,0 +1,26 @@
+{
+  "method": "POST",
+  "url": "https://ads.mozilla.org/v1/ads",
+  "timestamp": "20250918_184041",
+  "query": "",
+  "headers": {
+    "Host": "ads.mozilla.org",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0",
+    "Accept": "*/*",
+    "Accept-Language": "en-US,en;q=0.5",
+    "content-type": "application/json",
+    "Connection": "keep-alive",
+    "Priority": "u=4",
+    "Accept-Encoding": "gzip, deflate",
+    "Content-Length": "340"
+  },
+  "response_status": 200,
+  "response_headers": {
+    "Strict-Transport-Security": "max-age=31536000",
+    "Date": "Thu, 18 Sep 2025 18:40:41 GMT",
+    "Via": "1.1 google",
+    "Alt-Svc": "h3=\u0022:443\u0022; ma=2592000, h3-29=\u0022:443\u0022; ma=2592000",
+    "Transfer-Encoding": "chunked"
+  },
+  "response_filename": "ads"
+}

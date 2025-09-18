@@ -1,0 +1,30 @@
+{
+  "method": "GET",
+  "url": "https://sync.ipredictive.com/d/sync/cookie/generic?https://ib.adnxs.com/setuid?entity=351\u0026code=${ADELPHIC_CUID}\u0026seg=6915766",
+  "timestamp": "20250918_182216",
+  "query": "?https://ib.adnxs.com/setuid?entity=351\u0026code=$%7BADELPHIC_CUID%7D\u0026seg=6915766",
+  "headers": {
+    "Host": "sync.ipredictive.com",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0",
+    "Accept": "image/avif,image/webp,image/png,image/svg\u002Bxml,image/*;q=0.8,*/*;q=0.5",
+    "Accept-Language": "en-US,en;q=0.5",
+    "Connection": "keep-alive",
+    "Referer": "https://acdn.adnxs.com/",
+    "Cookie": "cu=7c8d306b-23b8-4d51-ae9a-8098d492feba|1758206040721",
+    "Sec-Fetch-Dest": "image",
+    "Sec-Fetch-Mode": "no-cors",
+    "Sec-Fetch-Site": "cross-site",
+    "Priority": "u=6, i",
+    "Pragma": "no-cache",
+    "Cache-Control": "no-cache",
+    "Accept-Encoding": "gzip, deflate"
+  },
+  "response_status": 400,
+  "response_headers": {
+    "Server": "nginx/1.25.5",
+    "Date": "Thu, 18 Sep 2025 18:22:15 GMT",
+    "Connection": "keep-alive",
+    "X-Proxy-Origin": "94.13.50.52; 94.13.50.52; 1006.bm-nginx-loadbalancer.mgmt.fra1.adnexus.net; *.adnxs.com"
+  },
+  "response_filename": "generic"
+}

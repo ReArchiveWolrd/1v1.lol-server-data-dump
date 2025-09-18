@@ -1,0 +1,41 @@
+{
+  "method": "GET",
+  "url": "https://fundingchoicesmessages.google.com/i/421469808?ers=3",
+  "timestamp": "20250918_180939",
+  "query": "?ers=3",
+  "headers": {
+    "Host": "fundingchoicesmessages.google.com",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0",
+    "Accept": "*/*",
+    "Accept-Language": "en-US,en;q=0.5",
+    "Connection": "keep-alive",
+    "Referer": "https://1v1.lol/",
+    "Sec-Fetch-Dest": "script",
+    "Sec-Fetch-Mode": "no-cors",
+    "Sec-Fetch-Site": "cross-site",
+    "Pragma": "no-cache",
+    "Cache-Control": "no-cache",
+    "Accept-Encoding": "gzip, deflate"
+  },
+  "response_status": 200,
+  "response_headers": {
+    "Cache-Control": "no-store, must-revalidate, no-cache, max-age=0",
+    "Pragma": "no-cache",
+    "Date": "Thu, 18 Sep 2025 18:09:39 GMT",
+    "Content-Security-Policy": "script-src \u0027report-sample\u0027 \u0027nonce--6_v7yTpvpn829Rpxj1Xlg\u0027 \u0027unsafe-inline\u0027;object-src \u0027none\u0027;base-uri \u0027self\u0027;report-uri /_/ContributorServingWebSwitchboardHttp/cspreport;worker-src \u0027self\u0027, require-trusted-types-for \u0027script\u0027;report-uri /_/ContributorServingWebSwitchboardHttp/cspreport",
+    "Accept-CH": "Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Model, Sec-CH-UA-WoW64, Sec-CH-UA-Form-Factors, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version",
+    "Cross-Origin-Resource-Policy": "cross-origin",
+    "Permissions-Policy": "ch-ua-arch=*, ch-ua-bitness=*, ch-ua-full-version=*, ch-ua-full-version-list=*, ch-ua-model=*, ch-ua-wow64=*, ch-ua-form-factors=*, ch-ua-platform=*, ch-ua-platform-version=*",
+    "Cross-Origin-Opener-Policy": "same-origin",
+    "reporting-endpoints": "default=\u0022/_/ContributorServingWebSwitchboardHttp/web-reports?context=eJzjCtDikmJw0ZBiaL15jnUqEBsqXGJ1BOIP9ZdZfwBxkcQV1iYg_lR1g1Wo-gZrEvtN1iIgNj14i9UViM38brPaAXG1uxdbMxAL8XA8nrrxGJvAjLtTjzEraSTlF8Yn5-eVFGUmlZbkF6Ulp6UWpxaVpRbFGxkYmRpYGprrGZjEFxgAAPrrMs0\u0022",
+    "Server": "ESF",
+    "X-XSS-Protection": "0",
+    "X-Frame-Options": "SAMEORIGIN",
+    "X-Content-Type-Options": "nosniff",
+    "Alt-Svc": "h3=\u0022:443\u0022; ma=2592000, h3-29=\u0022:443\u0022; ma=2592000",
+    "Accept-Ranges": "none",
+    "Vary": "Accept-Encoding",
+    "Transfer-Encoding": "chunked"
+  },
+  "response_filename": "421469808"
+}

@@ -1,0 +1,24 @@
+{
+  "method": "GET",
+  "url": "https://ads.mozilla.org/v1/t?data=CsoDEgU3NDM1NxoMCOyEscYGENSf05ECIgsImYixxgYQg-j9ECoGQW1hem9uMiRhYTZmMDViOC05MDI2LTQxM2QtOTJhZS05NjA2MTM5NTQxODA6AkdCcg1uZXd0YWJfdGlsZV8xegNTQ1SCAVBNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMJgBAaABAagBA7ABAbgBAsIBJDNlZWUwODRlLWE4ZjktNDYxNi1iNjUzLTBmOTllNGQ4MjljNsgBAZIB0gEKzwFodHRwczovL2ltcC5tdDQ4Lm5ldC9zdGF0aWM_aWQ9N1JIemZPSVhqRkVZc0Jkdklwa1lmUXhYZkN4WDFwcWs0WmxYNENMWTRaOG5qOXdXSUJkdklwa1k3bjRZSUZja2lHSXc1RndxZ0NMWTFDZm54JTNEWE5IbUV1SUYlMkJrNUZ3cWdDbFdmcHhuSEYydXhtRVRJRjRraUZ6VTVGd3FnQzhZNFpsWDRabGExQzJhNFpxWTRaMnIxdElaSiUzRHprNUYlMkJkSkY3d3hRa1gSIK-LXzAyNMKaLVS4Ajqfr3pkraAVDKpDBp3atMWMnsaS\u0026position=0",
+  "timestamp": "20250918_175156",
+  "query": "?data=CsoDEgU3NDM1NxoMCOyEscYGENSf05ECIgsImYixxgYQg-j9ECoGQW1hem9uMiRhYTZmMDViOC05MDI2LTQxM2QtOTJhZS05NjA2MTM5NTQxODA6AkdCcg1uZXd0YWJfdGlsZV8xegNTQ1SCAVBNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMJgBAaABAagBA7ABAbgBAsIBJDNlZWUwODRlLWE4ZjktNDYxNi1iNjUzLTBmOTllNGQ4MjljNsgBAZIB0gEKzwFodHRwczovL2ltcC5tdDQ4Lm5ldC9zdGF0aWM_aWQ9N1JIemZPSVhqRkVZc0Jkdklwa1lmUXhYZkN4WDFwcWs0WmxYNENMWTRaOG5qOXdXSUJkdklwa1k3bjRZSUZja2lHSXc1RndxZ0NMWTFDZm54JTNEWE5IbUV1SUYlMkJrNUZ3cWdDbFdmcHhuSEYydXhtRVRJRjRraUZ6VTVGd3FnQzhZNFpsWDRabGExQzJhNFpxWTRaMnIxdElaSiUzRHprNUYlMkJkSkY3d3hRa1gSIK-LXzAyNMKaLVS4Ajqfr3pkraAVDKpDBp3atMWMnsaS\u0026position=0",
+  "headers": {
+    "Host": "ads.mozilla.org",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0",
+    "Accept": "*/*",
+    "Accept-Language": "en-US,en;q=0.5",
+    "Connection": "keep-alive",
+    "Priority": "u=4",
+    "Accept-Encoding": "gzip, deflate"
+  },
+  "response_status": 200,
+  "response_headers": {
+    "Cache-Control": "no-store",
+    "Strict-Transport-Security": "max-age=31536000",
+    "Date": "Thu, 18 Sep 2025 17:51:55 GMT",
+    "Via": "1.1 google",
+    "Alt-Svc": "h3=\u0022:443\u0022; ma=2592000, h3-29=\u0022:443\u0022; ma=2592000"
+  },
+  "response_filename": "t"
+}

@@ -1,0 +1,39 @@
+{
+  "method": "HEAD",
+  "url": "https://justplay-cdn.playtika.com/justbuild/1v1Images/Shop/ChampionShop/InfluencersShop/LegendsSpin_Lab2.png",
+  "timestamp": "20250918_182014",
+  "query": "",
+  "headers": {
+    "Host": "justplay-cdn.playtika.com",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0",
+    "Accept": "*/*",
+    "Accept-Language": "en-US,en;q=0.5",
+    "Referer": "https://1v1.lol/",
+    "Origin": "https://1v1.lol",
+    "Connection": "keep-alive",
+    "Sec-Fetch-Dest": "empty",
+    "Sec-Fetch-Mode": "cors",
+    "Sec-Fetch-Site": "cross-site",
+    "Priority": "u=4",
+    "Pragma": "no-cache",
+    "Cache-Control": "no-cache",
+    "Accept-Encoding": "gzip, deflate"
+  },
+  "response_status": 200,
+  "response_headers": {
+    "x-amz-id-2": "Bq38U8PMFZ/0fgW3n5qtR0Q\u002B1RVO1SxcebnfZYHeSrZQKt87KsK2q5I5bdLh3S33TnHVkyEKIDo=",
+    "x-amz-request-id": "D04Y6VNFADH90YP7",
+    "ETag": "\u0022bff1f2a885ee7ff7938cb3d53dcf0526\u0022",
+    "x-amz-server-side-encryption": "AES256",
+    "Accept-Ranges": "bytes",
+    "Server": "AmazonS3",
+    "Date": "Thu, 18 Sep 2025 18:20:14 GMT",
+    "Connection": "keep-alive",
+    "Access-Control-Max-Age": "86400",
+    "Access-Control-Allow-Credentials": "false",
+    "Access-Control-Allow-Headers": "*",
+    "Access-Control-Allow-Methods": "GET,HEAD",
+    "Access-Control-Allow-Origin": "*"
+  },
+  "response_filename": "LegendsSpin_Lab2.png"
+}

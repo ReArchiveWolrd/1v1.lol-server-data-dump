@@ -1,0 +1,39 @@
+{
+  "method": "HEAD",
+  "url": "https://justplay-cdn.playtika.com/justbuild/1v1Images/Events/WeaponsEvents/RPGHunt/Offers/Offer_Large.png",
+  "timestamp": "20250918_182008",
+  "query": "",
+  "headers": {
+    "Host": "justplay-cdn.playtika.com",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0",
+    "Accept": "*/*",
+    "Accept-Language": "en-US,en;q=0.5",
+    "Referer": "https://1v1.lol/",
+    "Origin": "https://1v1.lol",
+    "Connection": "keep-alive",
+    "Sec-Fetch-Dest": "empty",
+    "Sec-Fetch-Mode": "cors",
+    "Sec-Fetch-Site": "cross-site",
+    "Priority": "u=4",
+    "Pragma": "no-cache",
+    "Cache-Control": "no-cache",
+    "Accept-Encoding": "gzip, deflate"
+  },
+  "response_status": 200,
+  "response_headers": {
+    "x-amz-id-2": "63TNTGyEBINvpjzAi3oqbxGCpoWGnqg1ZmfL8ET9c7n4q5SIejWZhSXJUyKtWTFtdbgBZiixQ86ta6uPNa2j63lMhswV5NNs8sVgs9yjnno=",
+    "x-amz-request-id": "89BEJ5Y4T7MPN942",
+    "ETag": "\u0022c32ff5f5102df71be0beacdeb82668df\u0022",
+    "x-amz-server-side-encryption": "AES256",
+    "Accept-Ranges": "bytes",
+    "Server": "AmazonS3",
+    "Date": "Thu, 18 Sep 2025 18:20:08 GMT",
+    "Connection": "keep-alive",
+    "Access-Control-Max-Age": "86400",
+    "Access-Control-Allow-Credentials": "false",
+    "Access-Control-Allow-Headers": "*",
+    "Access-Control-Allow-Methods": "GET,HEAD",
+    "Access-Control-Allow-Origin": "*"
+  },
+  "response_filename": "Offer_Large.png"
+}

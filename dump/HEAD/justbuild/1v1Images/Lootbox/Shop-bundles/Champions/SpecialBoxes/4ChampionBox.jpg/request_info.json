@@ -1,0 +1,39 @@
+{
+  "method": "HEAD",
+  "url": "https://justplay-cdn.playtika.com/justbuild/1v1Images/Lootbox/Shop-bundles/Champions/SpecialBoxes/4ChampionBox.jpg",
+  "timestamp": "20250918_182010",
+  "query": "",
+  "headers": {
+    "Host": "justplay-cdn.playtika.com",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0",
+    "Accept": "*/*",
+    "Accept-Language": "en-US,en;q=0.5",
+    "Referer": "https://1v1.lol/",
+    "Origin": "https://1v1.lol",
+    "Connection": "keep-alive",
+    "Sec-Fetch-Dest": "empty",
+    "Sec-Fetch-Mode": "cors",
+    "Sec-Fetch-Site": "cross-site",
+    "Priority": "u=4",
+    "Pragma": "no-cache",
+    "Cache-Control": "no-cache",
+    "Accept-Encoding": "gzip, deflate"
+  },
+  "response_status": 200,
+  "response_headers": {
+    "x-amz-id-2": "fFb/ZpuJDYiJSN\u002BHSP8tmnSrrgzydHB7PoxedmLYPGFbp5jEmk71oEHqorIkxXPEe1Bvc2KSavNNZPHYjCkT7A==",
+    "x-amz-request-id": "Z9R6T188R7E6D3QB",
+    "ETag": "\u002250577f393b41318972329a1fd1a50e33\u0022",
+    "x-amz-server-side-encryption": "AES256",
+    "Accept-Ranges": "bytes",
+    "Server": "AmazonS3",
+    "Date": "Thu, 18 Sep 2025 18:20:10 GMT",
+    "Connection": "keep-alive",
+    "Access-Control-Max-Age": "86400",
+    "Access-Control-Allow-Credentials": "false",
+    "Access-Control-Allow-Headers": "*",
+    "Access-Control-Allow-Methods": "GET,HEAD",
+    "Access-Control-Allow-Origin": "*"
+  },
+  "response_filename": "4ChampionBox.jpg"
+}

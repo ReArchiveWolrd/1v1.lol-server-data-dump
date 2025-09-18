@@ -1,0 +1,27 @@
+{
+  "method": "POST",
+  "url": "https://merino.services.mozilla.com/api/v1/curated-recommendations",
+  "timestamp": "20250918_184043",
+  "query": "",
+  "headers": {
+    "Host": "merino.services.mozilla.com",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0",
+    "Accept": "*/*",
+    "Accept-Language": "en-US,en;q=0.5",
+    "content-type": "application/json",
+    "Connection": "keep-alive",
+    "Priority": "u=4",
+    "Accept-Encoding": "gzip, deflate",
+    "Content-Length": "143"
+  },
+  "response_status": 400,
+  "response_headers": {
+    "Server": "nginx",
+    "Date": "Thu, 18 Sep 2025 18:40:43 GMT",
+    "X-Request-ID": "bc65da29a594455598e615673a86a820",
+    "Strict-Transport-Security": "max-age=31536000",
+    "Via": "1.1 google",
+    "Alt-Svc": "h3=\u0022:443\u0022; ma=2592000, h3-29=\u0022:443\u0022; ma=2592000"
+  },
+  "response_filename": "curated-recommendations"
+}

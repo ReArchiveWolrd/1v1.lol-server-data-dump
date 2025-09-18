@@ -1,0 +1,41 @@
+{
+  "method": "GET",
+  "url": "https://firefox.settings.services.mozilla.com/v1/buckets/main/collections/quicksuggest-amp/changeset?_expected=0\u0026_since=%221758132757119%22",
+  "timestamp": "20250918_182433",
+  "query": "?_expected=0\u0026_since=%221758132757119%22",
+  "headers": {
+    "Host": "firefox.settings.services.mozilla.com",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0",
+    "Accept": "*/*",
+    "Accept-Language": "en-US,en;q=0.5",
+    "Connection": "keep-alive",
+    "Sec-Fetch-Dest": "empty",
+    "Sec-Fetch-Mode": "no-cors",
+    "Sec-Fetch-Site": "none",
+    "Priority": "u=4",
+    "Pragma": "no-cache",
+    "Cache-Control": "no-cache",
+    "Accept-Encoding": "gzip, deflate"
+  },
+  "response_status": 200,
+  "response_headers": {
+    "Connection": "keep-alive",
+    "Access-Control-Expose-Headers": "Content-Type, Retry-After, Content-Length, Backoff, Alert",
+    "Server": "nginx",
+    "X-Content-Type-Options": "nosniff",
+    "Via": "1.1 google, 1.1 varnish, 1.1 varnish",
+    "Access-Control-Allow-Origin": "*",
+    "Cache-Control": "max-age=3600",
+    "Strict-Transport-Security": "max-age=31536000",
+    "Content-Security-Policy": "default-src \u0027none\u0027; frame-ancestors \u0027none\u0027; base-uri \u0027none\u0027;",
+    "Accept-Ranges": "bytes",
+    "Date": "Thu, 18 Sep 2025 18:24:32 GMT",
+    "Age": "3024",
+    "X-Served-By": "cache-lhr-egll1980048-LHR, cache-lhr-egll1980058-LHR",
+    "X-Cache": "MISS, HIT",
+    "X-Cache-Hits": "0, 8",
+    "X-Timer": "S1758219873.692695,VS0,VE0",
+    "Vary": "Accept-Encoding"
+  },
+  "response_filename": "changeset"
+}

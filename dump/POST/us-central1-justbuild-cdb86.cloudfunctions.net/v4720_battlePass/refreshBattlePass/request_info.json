@@ -1,0 +1,40 @@
+{
+  "method": "POST",
+  "url": "https://us-central1-justbuild-cdb86.cloudfunctions.net/v4720_battlePass/refreshBattlePass",
+  "timestamp": "20250918_182410",
+  "query": "",
+  "headers": {
+    "Host": "us-central1-justbuild-cdb86.cloudfunctions.net",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0",
+    "Accept": "*/*",
+    "Accept-Language": "en-US,en;q=0.5",
+    "Referer": "https://1v1.lol/",
+    "Content-Type": "application/x-www-form-urlencoded",
+    "firebase-config-ids": "{\u0022VersionID\u0022:\u0022default\u0022,\u0022BattlePassID\u0022:\u0022default\u0022,\u0022DailyRewardsID\u0022:\u0022default\u0022,\u0022GameModesID\u0022:\u0022default\u0022,\u0022RankXPGainPerGameModeId\u0022:\u0022default\u0022,\u0022StoreSettingsID\u0022:\u0022champions\u0022,\u0022SubscriptionsId\u0022:\u0022default\u0022,\u0022ChampionsID\u0022:\u0022default\u0022,\u0022ProductsID\u0022:\u0022champions\u0022,\u0022GeneralConfigID\u0022:\u0022web\u0022,\u0022AdsSettingsID\u0022:\u0022default\u0022,\u0022ChallengesID\u0022:\u0022default\u0022,\u0022TrophyRoadID\u0022:\u0022default\u0022,\u0022RankRoadID\u0022:\u0022champions\u0022,\u0022LootBoxesId\u0022:\u0022default\u0022,\u0022GameplaySettingsID\u0022:\u0022default\u0022,\u0022FTUEConfigID\u0022:\u0022default\u0022,\u0022LimitedLockerSpinID\u0022:\u0022default\u0022,\u0022XPBankID\u0022:\u0022default\u0022,\u0022LeaderboardsID\u0022:\u0022default\u0022,\u0022EquipmentID\u0022:\u0022default\u0022,\u0022LootBoxesGachaId\u0022:\u0022champions\u0022,\u0022ProgressionEventsID\u0022:\u0022default\u0022,\u0022CheaterSettingsID\u0022:\u0022default\u0022,\u0022AlbumSettingsID\u0022:\u0022default\u0022,\u0022DailySpinsId\u0022:\u0022champions\u0022}",
+    "auth-token": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjUwMDZlMjc5MTVhMTcwYWIyNmIxZWUzYjgxZDExNjU0MmYxMjRmMjAiLCJ0eXAiOiJKV1QifQ.eyJwcm92aWRlcl9pZCI6ImFub255bW91cyIsImlzcyI6Imh0dHBzOi8vc2VjdXJldG9rZW4uZ29vZ2xlLmNvbS9qdXN0YnVpbGQtY2RiODYiLCJhdWQiOiJqdXN0YnVpbGQtY2RiODYiLCJhdXRoX3RpbWUiOjE3NTgyMDYyNzQsInVzZXJfaWQiOiJQNnFnZTZZYVRTVzNCVzZvUm5USjc2Smx2dXYxIiwic3ViIjoiUDZxZ2U2WWFUU1czQlc2b1JuVEo3NkpsdnV2MSIsImlhdCI6MTc1ODIxOTgyNSwiZXhwIjoxNzU4MjIzNDI1LCJmaXJlYmFzZSI6eyJpZGVudGl0aWVzIjp7fSwic2lnbl9pbl9wcm92aWRlciI6ImFub255bW91cyJ9fQ.jN-G83PUg_Zpw3iJezO9WqBKAH5GPyjBg9aa-eW2LF4UO5ZMA6KOrlcL5H3FYhcAI1MtgPnMSfAigsEOWkXBxKEn6AEmVdSEB2NJU8r_JS_egWxnIg7vJy84YTbzFo_2o5ybeCm7EoAIqEJ_FRt3-QIZhFZudRP1F7hh45M_nYnx6AhJl0c58FzPOq-tHrE_KHXiTQe-hDxoQhhPBKi-wHNfpDppO_kz2WyXvBwY9ATJVofErtQvZ4hhb1ydx7d0_X-TN2AY9ffSKwje5Y4ZOzUI85WP1RwCKnambtFBhFJupmR1S3MU2gtfJOR70jnjdGe4qcp6Mo3l-IR5Y9ja2A",
+    "provider": "Anonymous",
+    "hcap": "e478f414726c872004ca8fcce81ecd3a7aec3930c14cd3d9811967caeb058dbf",
+    "Origin": "https://1v1.lol",
+    "Connection": "keep-alive",
+    "Sec-Fetch-Dest": "empty",
+    "Sec-Fetch-Mode": "cors",
+    "Sec-Fetch-Site": "cross-site",
+    "Priority": "u=4",
+    "Pragma": "no-cache",
+    "Cache-Control": "no-cache",
+    "Accept-Encoding": "gzip, deflate",
+    "Content-Length": "20"
+  },
+  "response_status": 400,
+  "response_headers": {
+    "X-Powered-By": "Express",
+    "Access-Control-Allow-Origin": "*",
+    "ETag": "W/\u002221-a7MOa3kKXf5jQG/kEflOEZkSqMU\u0022",
+    "function-execution-id": "q0vw6vmmzq6k",
+    "x-cloud-trace-context": "8299c23bc77122d2320c7023614043e8",
+    "Date": "Thu, 18 Sep 2025 18:24:10 GMT",
+    "Server": "Google, Frontend",
+    "Alt-Svc": "h3=\u0022:443\u0022; ma=2592000, h3-29=\u0022:443\u0022; ma=2592000"
+  },
+  "response_filename": "refreshBattlePass"
+}

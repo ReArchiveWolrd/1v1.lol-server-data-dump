@@ -1,0 +1,1 @@
+eventProgression=%7b%22lol.1v1.events.ElectroHunt%22%3a30%7d

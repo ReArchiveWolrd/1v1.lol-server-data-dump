@@ -1,0 +1,37 @@
+{
+  "method": "GET",
+  "url": "https://a.tribalfusion.com/i.match?p=b9\u0026u=9218122040003215140",
+  "timestamp": "20250918_182227",
+  "query": "?p=b9\u0026u=9218122040003215140",
+  "headers": {
+    "Host": "a.tribalfusion.com",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0",
+    "Accept": "image/avif,image/webp,image/png,image/svg\u002Bxml,image/*;q=0.8,*/*;q=0.5",
+    "Accept-Language": "en-US,en;q=0.5",
+    "Connection": "keep-alive",
+    "Referer": "https://acdn.adnxs.com/",
+    "Cookie": "ANON_ID=a5ns6EsjyDjmTFM6EKNQh4LFHUfZc3iFZa7LW5ODWkfDSsZblUbuPSZb9Vk0a2AsbttInkTSrwQcbI0aronoYfZaS; ANON_ID_old=a5ns6EsjyDjmTFM6EKNQh4LFHUfZc3iFZa7LW5ODWkfDSsZblUbuPSZb9Vk0a2AsbttInkTSrwQcbI0aronoYfZaS",
+    "Sec-Fetch-Dest": "image",
+    "Sec-Fetch-Mode": "no-cors",
+    "Sec-Fetch-Site": "cross-site",
+    "Priority": "u=6, i",
+    "Pragma": "no-cache",
+    "Cache-Control": "no-cache",
+    "Accept-Encoding": "gzip, deflate"
+  },
+  "response_status": 200,
+  "response_headers": {
+    "Date": "Thu, 18 Sep 2025 18:22:27 GMT",
+    "Connection": "keep-alive",
+    "CF-RAY": "9812de6bce90ed0f-LHR",
+    "P3P": "CP=\u0022NOI DEVo TAIa OUR BUS\u0022",
+    "X-Function": "302",
+    "Cache-Control": "no-cache, private",
+    "Pragma": "no-cache",
+    "Set-Cookie": "ANON_ID=a9nsXDs2aF8pAJsbX1nRX47BMMBcEK0Za4Hn4lWVl3uYaYQ0Lr6MrtRNvJN6k0KiuXFTdsZcuEfgKiUkhV; path=/; domain=.tribalfusion.com; expires=Wed, 17-Dec-2025 18:22:26 GMT; SameSite=None; Secure;, ANON_ID_old=a9nsXDs2aF8pAJsbX1nRX47BMMBcEK0Za4Hn4lWVl3uYaYQ0Lr6MrtRNvJN6k0KiuXFTdsZcuEfgKiUkhV; path=/; domain=.tribalfusion.com; expires=Wed, 17-Dec-2025 18:22:26 GMT;",
+    "cf-cache-status": "DYNAMIC",
+    "Server": "cloudflare",
+    "Alt-Svc": "h3=\u0022:443\u0022"
+  },
+  "response_filename": "i.match"
+}

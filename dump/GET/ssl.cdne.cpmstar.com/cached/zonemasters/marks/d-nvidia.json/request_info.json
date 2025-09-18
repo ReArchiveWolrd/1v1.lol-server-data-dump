@@ -1,0 +1,41 @@
+{
+  "method": "GET",
+  "url": "https://ssl.cdne.cpmstar.com/cached/zonemasters/marks/d-nvidia.json",
+  "timestamp": "20250918_181821",
+  "query": "",
+  "headers": {
+    "Host": "ssl.cdne.cpmstar.com",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0",
+    "Accept": "*/*",
+    "Accept-Language": "en-US,en;q=0.5",
+    "Referer": "https://1v1.lol/",
+    "Origin": "https://1v1.lol",
+    "Connection": "keep-alive",
+    "Sec-Fetch-Dest": "empty",
+    "Sec-Fetch-Mode": "cors",
+    "Sec-Fetch-Site": "cross-site",
+    "Priority": "u=6",
+    "Pragma": "no-cache",
+    "Cache-Control": "no-cache",
+    "Accept-Encoding": "gzip, deflate"
+  },
+  "response_status": 200,
+  "response_headers": {
+    "Server": "nginx",
+    "Date": "Thu, 18 Sep 2025 18:18:20 GMT",
+    "Connection": "keep-alive",
+    "X-ID-FE": "thn2-hw-edge-gc12",
+    "traceparent": "00-feab7488959f1c2c69fd4d05d3127b69-e9db3fa993434c99-01",
+    "X-SHARD": "thn2-shard0-default",
+    "Cache-Control": "max-age=259200",
+    "ETag": "\u0022d250c01d5cc2d71:0\u0022",
+    "P3P": "policyref=\u0022/w3c/p3p.xml\u0022, CP=\u0022NOI NID CURa ADM DEVa PSAa PSDa OUR OTR IND UNI NAV STA\u0022",
+    "Access-Control-Allow-Origin": "*",
+    "X-ID": "thn2-hw-edge-gc27",
+    "Age": "944",
+    "Cache": "HIT",
+    "X-Cached-Since": "2025-09-18T18:02:36\u002B00:00",
+    "Accept-Ranges": "bytes"
+  },
+  "response_filename": "d-nvidia.json"
+}

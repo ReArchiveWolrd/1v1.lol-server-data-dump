@@ -1,0 +1,30 @@
+{
+  "method": "GET",
+  "url": "https://www.google.com/complete/search?client=firefox\u0026channel=ftr\u0026q=",
+  "timestamp": "20250918_184233",
+  "query": "?client=firefox\u0026channel=ftr\u0026q=",
+  "headers": {
+    "Host": "www.google.com",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0",
+    "Accept": "*/*",
+    "Accept-Language": "en-US,en;q=0.5",
+    "Connection": "keep-alive",
+    "Accept-Encoding": "gzip, deflate"
+  },
+  "response_status": 200,
+  "response_headers": {
+    "Date": "Thu, 18 Sep 2025 18:42:34 GMT",
+    "Pragma": "no-cache",
+    "Cache-Control": "must-revalidate, no-cache",
+    "Content-Security-Policy": "object-src \u0027none\u0027;base-uri \u0027self\u0027;script-src \u0027nonce-yYZyTIrs2SdMNQPz5GYBBw\u0027 \u0027strict-dynamic\u0027 \u0027report-sample\u0027 \u0027unsafe-eval\u0027 \u0027unsafe-inline\u0027 https: http:;report-uri https://csp.withgoogle.com/csp/gws/xsrp",
+    "Accept-CH": "Sec-CH-Prefers-Color-Scheme",
+    "Server": "gws",
+    "X-XSS-Protection": "0",
+    "X-Frame-Options": "SAMEORIGIN",
+    "Alt-Svc": "h3=\u0022:443\u0022; ma=2592000, h3-29=\u0022:443\u0022; ma=2592000",
+    "Accept-Ranges": "none",
+    "Vary": "Accept-Encoding",
+    "Transfer-Encoding": "chunked"
+  },
+  "response_filename": "search"
+}

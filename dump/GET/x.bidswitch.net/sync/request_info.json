@@ -1,0 +1,29 @@
+{
+  "method": "GET",
+  "url": "https://x.bidswitch.net/sync?ssp=onetag\u0026gdpr=1\u0026gdpr_consent=CQX4zdgQX4zdgAcABBENB8FgAP_gAEPAAChQLmwMQAGgAcABAACQAGgAOgAegBFACZAFAAUQA2ADKAHiAk8BagC2wF4ALzAZgBPCCeQJ8QT7BPyCf4KBwUGBRUCi8FGQUbAo9BSAFJoKUApXBS0FL4KYgpkBTSCmwKfwVBBUSCowKowVUBViCrQKvwVhBWOCsoK2QVuBXGCuoK7QV4BXqCvwLBwWFBYmCxYLGwWPBaqC1gLdwW9Bb-C4ILmguZA7AA4ACAAEgANAAmABQAGUAicBagC8wJ4QTzBPSCfoJ_QUEBQiChYKGAUSgoqCiwFGQKOAUfApDBSQFJQKUQUuBS8CmQFPIKfgqABUaCpQKlgVOgqkCqYFVgKswVcBV2Cr4KwAVkArTBWwFbYK3groBXmCvgK-wWCBYWCxILFgWOAsmBZUCzIFngLQAWmgtWC1oFsILcAtzBbsFvALgAXCAuLBccFyILlguYAA.f_wACHgAAAAA\u0026user_id=",
+  "timestamp": "20250918_182155",
+  "query": "?ssp=onetag\u0026gdpr=1\u0026gdpr_consent=CQX4zdgQX4zdgAcABBENB8FgAP_gAEPAAChQLmwMQAGgAcABAACQAGgAOgAegBFACZAFAAUQA2ADKAHiAk8BagC2wF4ALzAZgBPCCeQJ8QT7BPyCf4KBwUGBRUCi8FGQUbAo9BSAFJoKUApXBS0FL4KYgpkBTSCmwKfwVBBUSCowKowVUBViCrQKvwVhBWOCsoK2QVuBXGCuoK7QV4BXqCvwLBwWFBYmCxYLGwWPBaqC1gLdwW9Bb-C4ILmguZA7AA4ACAAEgANAAmABQAGUAicBagC8wJ4QTzBPSCfoJ_QUEBQiChYKGAUSgoqCiwFGQKOAUfApDBSQFJQKUQUuBS8CmQFPIKfgqABUaCpQKlgVOgqkCqYFVgKswVcBV2Cr4KwAVkArTBWwFbYK3groBXmCvgK-wWCBYWCxILFgWOAsmBZUCzIFngLQAWmgtWC1oFsILcAtzBbsFvALgAXCAuLBccFyILlguYAA.f_wACHgAAAAA\u0026user_id=",
+  "headers": {
+    "Host": "x.bidswitch.net",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0",
+    "Accept": "image/avif,image/webp,image/png,image/svg\u002Bxml,image/*;q=0.8,*/*;q=0.5",
+    "Accept-Language": "en-US,en;q=0.5",
+    "Referer": "https://1v1.lol/",
+    "Connection": "keep-alive",
+    "Sec-Fetch-Dest": "image",
+    "Sec-Fetch-Mode": "no-cors",
+    "Sec-Fetch-Site": "cross-site",
+    "Priority": "u=6, i",
+    "Pragma": "no-cache",
+    "Cache-Control": "no-cache",
+    "Accept-Encoding": "gzip, deflate"
+  },
+  "response_status": 200,
+  "response_headers": {
+    "Cache-Control": "no-store, must-revalidate, no-cache",
+    "Date": "Thu, 18 Sep 2025 18:21:55 GMT",
+    "Via": "1.1 google",
+    "Alt-Svc": "h3=\u0022:443\u0022; ma=2592000, h3-29=\u0022:443\u0022; ma=2592000"
+  },
+  "response_filename": "sync"
+}

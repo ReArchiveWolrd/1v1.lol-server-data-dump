@@ -1,0 +1,39 @@
+{
+  "method": "HEAD",
+  "url": "https://justplay-cdn.playtika.com/justbuild/1v1Images/TheLabCollectionAlbum/Capsules/capsule-4.png",
+  "timestamp": "20250918_181951",
+  "query": "",
+  "headers": {
+    "Host": "justplay-cdn.playtika.com",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0",
+    "Accept": "*/*",
+    "Accept-Language": "en-US,en;q=0.5",
+    "Referer": "https://1v1.lol/",
+    "Origin": "https://1v1.lol",
+    "Connection": "keep-alive",
+    "Sec-Fetch-Dest": "empty",
+    "Sec-Fetch-Mode": "cors",
+    "Sec-Fetch-Site": "cross-site",
+    "Priority": "u=4",
+    "Pragma": "no-cache",
+    "Cache-Control": "no-cache",
+    "Accept-Encoding": "gzip, deflate"
+  },
+  "response_status": 200,
+  "response_headers": {
+    "x-amz-id-2": "5mYkBFIs/Zc61hHfUFcEtV1e55\u002BX\u002Bq7dOFuxhcuPTRQDpmbUcxHo3pds3XV3Bf2\u002Bq8r9PrJ67GT/XDNFp6BVECvIntB0IVgqeaxC9gXUJo8=",
+    "x-amz-request-id": "74QYB1XZMAG2HVZP",
+    "ETag": "\u0022c74613b9e847d19d719463e5f171d0d6\u0022",
+    "x-amz-server-side-encryption": "AES256",
+    "Accept-Ranges": "bytes",
+    "Server": "AmazonS3",
+    "Date": "Thu, 18 Sep 2025 18:19:51 GMT",
+    "Connection": "keep-alive",
+    "Access-Control-Max-Age": "86400",
+    "Access-Control-Allow-Credentials": "false",
+    "Access-Control-Allow-Headers": "*",
+    "Access-Control-Allow-Methods": "GET,HEAD",
+    "Access-Control-Allow-Origin": "*"
+  },
+  "response_filename": "capsule-4.png"
+}

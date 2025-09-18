@@ -1,0 +1,898 @@
+"response"
+{
+	"serverlist"
+	{
+		"0"
+		{
+			"endpoint"	"cmp1-lhr1.steamserver.net:27018"
+			"legacy_endpoint"	"cmp2-lhr1.steamserver.net:27018"
+			"type"	"websockets"
+			"dc"	"lhr1"
+			"realm"	"steamglobal"
+			"load"	"28"
+			"wtd_load"	"21.797116756439209"
+		}
+		"1"
+		{
+			"endpoint"	"cmp2-lhr1.steamserver.net:27018"
+			"legacy_endpoint"	"cmp2-lhr1.steamserver.net:27018"
+			"type"	"websockets"
+			"dc"	"lhr1"
+			"realm"	"steamglobal"
+			"load"	"28"
+			"wtd_load"	"22.4468708038330078"
+		}
+		"2"
+		{
+			"endpoint"	"cmp1-lhr1.steamserver.net:27018"
+			"legacy_endpoint"	"cmp1-lhr1.steamserver.net:27018"
+			"type"	"websockets"
+			"dc"	"lhr1"
+			"realm"	"steamglobal"
+			"load"	"28"
+			"wtd_load"	"23.5439729690551758"
+		}
+		"3"
+		{
+			"endpoint"	"cmp2-lhr1.steamserver.net:27018"
+			"legacy_endpoint"	"cmp1-lhr1.steamserver.net:27018"
+			"type"	"websockets"
+			"dc"	"lhr1"
+			"realm"	"steamglobal"
+			"load"	"28"
+			"wtd_load"	"23.6598644256591797"
+		}
+		"4"
+		{
+			"endpoint"	"cmp1-lhr1.steamserver.net:27019"
+			"legacy_endpoint"	"cmp2-lhr1.steamserver.net:27019"
+			"type"	"websockets"
+			"dc"	"lhr1"
+			"realm"	"steamglobal"
+			"load"	"29"
+			"wtd_load"	"24.0779719352722168"
+		}
+		"5"
+		{
+			"endpoint"	"cmp2-lhr1.steamserver.net:27018"
+			"legacy_endpoint"	"cmp2-lhr1.steamserver.net:27018"
+			"type"	"websockets"
+			"dc"	"lhr1"
+			"realm"	"steamglobal"
+			"load"	"28"
+			"wtd_load"	"24.3409230709075928"
+		}
+		"6"
+		{
+			"endpoint"	"cmp1-lhr1.steamserver.net:27020"
+			"legacy_endpoint"	"cmp2-lhr1.steamserver.net:27020"
+			"type"	"websockets"
+			"dc"	"lhr1"
+			"realm"	"steamglobal"
+			"load"	"29"
+			"wtd_load"	"24.3865261077880859"
+		}
+		"7"
+		{
+			"endpoint"	"cmp1-lhr1.steamserver.net:27018"
+			"legacy_endpoint"	"cmp1-lhr1.steamserver.net:27018"
+			"type"	"websockets"
+			"dc"	"lhr1"
+			"realm"	"steamglobal"
+			"load"	"28"
+			"wtd_load"	"24.451991081237793"
+		}
+		"8"
+		{
+			"endpoint"	"cmp2-lhr1.steamserver.net:27020"
+			"legacy_endpoint"	"cmp2-lhr1.steamserver.net:27020"
+			"type"	"websockets"
+			"dc"	"lhr1"
+			"realm"	"steamglobal"
+			"load"	"30"
+			"wtd_load"	"25.0961871147155762"
+		}
+		"9"
+		{
+			"endpoint"	"cmp1-lhr1.steamserver.net:27019"
+			"legacy_endpoint"	"cmp1-lhr1.steamserver.net:27019"
+			"type"	"websockets"
+			"dc"	"lhr1"
+			"realm"	"steamglobal"
+			"load"	"30"
+			"wtd_load"	"25.2347664833068848"
+		}
+		"10"
+		{
+			"endpoint"	"cmp1-lhr1.steamserver.net:27020"
+			"legacy_endpoint"	"cmp1-lhr1.steamserver.net:27020"
+			"type"	"websockets"
+			"dc"	"lhr1"
+			"realm"	"steamglobal"
+			"load"	"29"
+			"wtd_load"	"25.5458545684814453"
+		}
+		"11"
+		{
+			"endpoint"	"cmp2-lhr1.steamserver.net:27019"
+			"legacy_endpoint"	"cmp2-lhr1.steamserver.net:27019"
+			"type"	"websockets"
+			"dc"	"lhr1"
+			"realm"	"steamglobal"
+			"load"	"30"
+			"wtd_load"	"25.8333487510681152"
+		}
+		"12"
+		{
+			"endpoint"	"cmp1-lhr1.steamserver.net:27018"
+			"legacy_endpoint"	"cmp1-lhr1.steamserver.net:27018"
+			"type"	"websockets"
+			"dc"	"lhr1"
+			"realm"	"steamglobal"
+			"load"	"28"
+			"wtd_load"	"26.0429037809371948"
+		}
+		"13"
+		{
+			"endpoint"	"cmp1-lhr1.steamserver.net:27018"
+			"legacy_endpoint"	"cmp1-lhr1.steamserver.net:27018"
+			"type"	"websockets"
+			"dc"	"lhr1"
+			"realm"	"steamglobal"
+			"load"	"28"
+			"wtd_load"	"26.2352408170700073"
+		}
+		"14"
+		{
+			"endpoint"	"cmp1-lhr1.steamserver.net:27018"
+			"legacy_endpoint"	"cmp2-lhr1.steamserver.net:27018"
+			"type"	"websockets"
+			"dc"	"lhr1"
+			"realm"	"steamglobal"
+			"load"	"28"
+			"wtd_load"	"26.3647780418395996"
+		}
+		"15"
+		{
+			"endpoint"	"cmp2-lhr1.steamserver.net:27019"
+			"legacy_endpoint"	"cmp1-lhr1.steamserver.net:27019"
+			"type"	"websockets"
+			"dc"	"lhr1"
+			"realm"	"steamglobal"
+			"load"	"29"
+			"wtd_load"	"26.3900537490844727"
+		}
+		"16"
+		{
+			"endpoint"	"cmp1-lhr1.steamserver.net:27018"
+			"legacy_endpoint"	"cmp1-lhr1.steamserver.net:27018"
+			"type"	"websockets"
+			"dc"	"lhr1"
+			"realm"	"steamglobal"
+			"load"	"28"
+			"wtd_load"	"26.4661779403686523"
+		}
+		"17"
+		{
+			"endpoint"	"cmp2-lhr1.steamserver.net:27018"
+			"legacy_endpoint"	"cmp1-lhr1.steamserver.net:27018"
+			"type"	"websockets"
+			"dc"	"lhr1"
+			"realm"	"steamglobal"
+			"load"	"29"
+			"wtd_load"	"26.5556917190551758"
+		}
+		"18"
+		{
+			"endpoint"	"cmp1-lhr1.steamserver.net:27020"
+			"legacy_endpoint"	"cmp1-lhr1.steamserver.net:27020"
+			"type"	"websockets"
+			"dc"	"lhr1"
+			"realm"	"steamglobal"
+			"load"	"29"
+			"wtd_load"	"26.899998664855957"
+		}
+		"19"
+		{
+			"endpoint"	"cmp1-lhr1.steamserver.net:443"
+			"legacy_endpoint"	"cmp2-lhr1.steamserver.net:443"
+			"type"	"websockets"
+			"dc"	"lhr1"
+			"realm"	"steamglobal"
+			"load"	"31"
+			"wtd_load"	"27.7095515727996826"
+		}
+		"20"
+		{
+			"endpoint"	"cmp2-lhr1.steamserver.net:27018"
+			"legacy_endpoint"	"cmp1-lhr1.steamserver.net:27018"
+			"type"	"websockets"
+			"dc"	"lhr1"
+			"realm"	"steamglobal"
+			"load"	"28"
+			"wtd_load"	"29.7924336194992065"
+		}
+		"21"
+		{
+			"endpoint"	"cmp1-lhr1.steamserver.net:27020"
+			"legacy_endpoint"	"cmp1-lhr1.steamserver.net:27020"
+			"type"	"websockets"
+			"dc"	"lhr1"
+			"realm"	"steamglobal"
+			"load"	"29"
+			"wtd_load"	"30.1377589702606201"
+		}
+		"22"
+		{
+			"endpoint"	"cmp2-lhr1.steamserver.net:443"
+			"legacy_endpoint"	"cmp2-lhr1.steamserver.net:443"
+			"type"	"websockets"
+			"dc"	"lhr1"
+			"realm"	"steamglobal"
+			"load"	"31"
+			"wtd_load"	"31.3320809602737427"
+		}
+		"23"
+		{
+			"endpoint"	"cmp2-lhr1.steamserver.net:27019"
+			"legacy_endpoint"	"cmp2-lhr1.steamserver.net:27019"
+			"type"	"websockets"
+			"dc"	"lhr1"
+			"realm"	"steamglobal"
+			"load"	"30"
+			"wtd_load"	"35.9590630531311035"
+		}
+		"24"
+		{
+			"endpoint"	"ext2-par1.steamserver.net:443"
+			"legacy_endpoint"	"ext2-par1.steamserver.net:443"
+			"type"	"websockets"
+			"dc"	"par1"
+			"realm"	"steamglobal"
+			"load"	"47"
+			"wtd_load"	"99.6195311546325684"
+		}
+		"25"
+		{
+			"endpoint"	"ext2-par1.steamserver.net:27028"
+			"legacy_endpoint"	"ext2-par1.steamserver.net:27028"
+			"type"	"websockets"
+			"dc"	"par1"
+			"realm"	"steamglobal"
+			"load"	"46"
+			"wtd_load"	"99.8651323318481445"
+		}
+		"26"
+		{
+			"endpoint"	"ext1-par1.steamserver.net:27035"
+			"legacy_endpoint"	"ext1-par1.steamserver.net:27035"
+			"type"	"websockets"
+			"dc"	"par1"
+			"realm"	"steamglobal"
+			"load"	"47"
+			"wtd_load"	"102.525296211242676"
+		}
+		"27"
+		{
+			"endpoint"	"ext2-par1.steamserver.net:27022"
+			"legacy_endpoint"	"ext2-par1.steamserver.net:27022"
+			"type"	"websockets"
+			"dc"	"par1"
+			"realm"	"steamglobal"
+			"load"	"46"
+			"wtd_load"	"102.815574169158936"
+		}
+		"28"
+		{
+			"endpoint"	"ext1-par1.steamserver.net:27030"
+			"legacy_endpoint"	"ext1-par1.steamserver.net:27030"
+			"type"	"websockets"
+			"dc"	"par1"
+			"realm"	"steamglobal"
+			"load"	"48"
+			"wtd_load"	"103.183058738708496"
+		}
+		"29"
+		{
+			"endpoint"	"ext2-par1.steamserver.net:27021"
+			"legacy_endpoint"	"ext2-par1.steamserver.net:27021"
+			"type"	"websockets"
+			"dc"	"par1"
+			"realm"	"steamglobal"
+			"load"	"45"
+			"wtd_load"	"103.416319847106934"
+		}
+		"30"
+		{
+			"endpoint"	"ext2-par1.steamserver.net:27032"
+			"legacy_endpoint"	"ext2-par1.steamserver.net:27032"
+			"type"	"websockets"
+			"dc"	"par1"
+			"realm"	"steamglobal"
+			"load"	"46"
+			"wtd_load"	"103.558924436569214"
+		}
+		"31"
+		{
+			"endpoint"	"ext1-par1.steamserver.net:27025"
+			"legacy_endpoint"	"ext1-par1.steamserver.net:27025"
+			"type"	"websockets"
+			"dc"	"par1"
+			"realm"	"steamglobal"
+			"load"	"48"
+			"wtd_load"	"103.589733123779297"
+		}
+		"32"
+		{
+			"endpoint"	"ext2-par1.steamserver.net:27038"
+			"legacy_endpoint"	"ext2-par1.steamserver.net:27038"
+			"type"	"websockets"
+			"dc"	"par1"
+			"realm"	"steamglobal"
+			"load"	"47"
+			"wtd_load"	"104.199855804443359"
+		}
+		"33"
+		{
+			"endpoint"	"185.25.182.52:27017"
+			"legacy_endpoint"	"185.25.182.52:27017"
+			"type"	"netfilter"
+			"dc"	"par1"
+			"realm"	"steamglobal"
+			"load"	"45"
+			"wtd_load"	"104.648163408041"
+		}
+		"34"
+		{
+			"endpoint"	"ext2-par1.steamserver.net:27030"
+			"legacy_endpoint"	"ext2-par1.steamserver.net:27030"
+			"type"	"websockets"
+			"dc"	"par1"
+			"realm"	"steamglobal"
+			"load"	"45"
+			"wtd_load"	"104.694084942340851"
+		}
+		"35"
+		{
+			"endpoint"	"ext1-par1.steamserver.net:27024"
+			"legacy_endpoint"	"ext1-par1.steamserver.net:27024"
+			"type"	"websockets"
+			"dc"	"par1"
+			"realm"	"steamglobal"
+			"load"	"47"
+			"wtd_load"	"104.935243844985962"
+		}
+		"36"
+		{
+			"endpoint"	"ext2-par1.steamserver.net:27020"
+			"legacy_endpoint"	"ext2-par1.steamserver.net:27020"
+			"type"	"websockets"
+			"dc"	"par1"
+			"realm"	"steamglobal"
+			"load"	"46"
+			"wtd_load"	"105.666340738534927"
+		}
+		"37"
+		{
+			"endpoint"	"ext2-par1.steamserver.net:27033"
+			"legacy_endpoint"	"ext2-par1.steamserver.net:27033"
+			"type"	"websockets"
+			"dc"	"par1"
+			"realm"	"steamglobal"
+			"load"	"46"
+			"wtd_load"	"106.004151580389589"
+		}
+		"38"
+		{
+			"endpoint"	"ext2-par1.steamserver.net:27037"
+			"legacy_endpoint"	"ext2-par1.steamserver.net:27037"
+			"type"	"websockets"
+			"dc"	"par1"
+			"realm"	"steamglobal"
+			"load"	"47"
+			"wtd_load"	"106.044468641281128"
+		}
+		"39"
+		{
+			"endpoint"	"ext1-par1.steamserver.net:27029"
+			"legacy_endpoint"	"ext1-par1.steamserver.net:27029"
+			"type"	"websockets"
+			"dc"	"par1"
+			"realm"	"steamglobal"
+			"load"	"48"
+			"wtd_load"	"106.410959482192993"
+		}
+		"40"
+		{
+			"endpoint"	"ext1-par1.steamserver.net:27034"
+			"legacy_endpoint"	"ext1-par1.steamserver.net:27034"
+			"type"	"websockets"
+			"dc"	"par1"
+			"realm"	"steamglobal"
+			"load"	"48"
+			"wtd_load"	"106.578299164772034"
+		}
+		"41"
+		{
+			"endpoint"	"ext1-par1.steamserver.net:27020"
+			"legacy_endpoint"	"ext1-par1.steamserver.net:27020"
+			"type"	"websockets"
+			"dc"	"par1"
+			"realm"	"steamglobal"
+			"load"	"48"
+			"wtd_load"	"106.745099663734436"
+		}
+		"42"
+		{
+			"endpoint"	"ext1-par1.steamserver.net:27023"
+			"legacy_endpoint"	"ext1-par1.steamserver.net:27023"
+			"type"	"websockets"
+			"dc"	"par1"
+			"realm"	"steamglobal"
+			"load"	"48"
+			"wtd_load"	"107.034516036510468"
+		}
+		"43"
+		{
+			"endpoint"	"ext1-par1.steamserver.net:27036"
+			"legacy_endpoint"	"ext1-par1.steamserver.net:27036"
+			"type"	"websockets"
+			"dc"	"par1"
+			"realm"	"steamglobal"
+			"load"	"48"
+			"wtd_load"	"107.144610464572906"
+		}
+		"44"
+		{
+			"endpoint"	"cmp2-iad1.steamserver.net:443"
+			"legacy_endpoint"	"cmp2-iad1.steamserver.net:443"
+			"type"	"websockets"
+			"dc"	"iad1"
+			"realm"	"steamglobal"
+			"load"	"15"
+			"wtd_load"	"108.103630065917969"
+		}
+		"45"
+		{
+			"endpoint"	"cmp1-iad1.steamserver.net:27020"
+			"legacy_endpoint"	"cmp2-iad1.steamserver.net:27020"
+			"type"	"websockets"
+			"dc"	"iad1"
+			"realm"	"steamglobal"
+			"load"	"16"
+			"wtd_load"	"109.591001033782959"
+		}
+		"46"
+		{
+			"endpoint"	"cmp1-iad1.steamserver.net:443"
+			"legacy_endpoint"	"cmp1-iad1.steamserver.net:443"
+			"type"	"websockets"
+			"dc"	"iad1"
+			"realm"	"steamglobal"
+			"load"	"15"
+			"wtd_load"	"109.883618354797363"
+		}
+		"47"
+		{
+			"endpoint"	"cmp1-iad1.steamserver.net:443"
+			"legacy_endpoint"	"cmp2-iad1.steamserver.net:443"
+			"type"	"websockets"
+			"dc"	"iad1"
+			"realm"	"steamglobal"
+			"load"	"15"
+			"wtd_load"	"110.511710166931152"
+		}
+		"48"
+		{
+			"endpoint"	"cmp2-iad1.steamserver.net:27020"
+			"legacy_endpoint"	"cmp1-iad1.steamserver.net:27020"
+			"type"	"websockets"
+			"dc"	"iad1"
+			"realm"	"steamglobal"
+			"load"	"16"
+			"wtd_load"	"110.553569793701172"
+		}
+		"49"
+		{
+			"endpoint"	"cmp1-iad1.steamserver.net:443"
+			"legacy_endpoint"	"cmp1-iad1.steamserver.net:443"
+			"type"	"websockets"
+			"dc"	"iad1"
+			"realm"	"steamglobal"
+			"load"	"16"
+			"wtd_load"	"110.829318523406982"
+		}
+		"50"
+		{
+			"endpoint"	"cmp2-iad1.steamserver.net:27019"
+			"legacy_endpoint"	"cmp2-iad1.steamserver.net:27019"
+			"type"	"websockets"
+			"dc"	"iad1"
+			"realm"	"steamglobal"
+			"load"	"19"
+			"wtd_load"	"111.341444492340088"
+		}
+		"51"
+		{
+			"endpoint"	"cmp1-iad1.steamserver.net:443"
+			"legacy_endpoint"	"cmp1-iad1.steamserver.net:443"
+			"type"	"websockets"
+			"dc"	"iad1"
+			"realm"	"steamglobal"
+			"load"	"16"
+			"wtd_load"	"111.895771980285645"
+		}
+		"52"
+		{
+			"endpoint"	"cmp2-iad1.steamserver.net:27020"
+			"legacy_endpoint"	"cmp2-iad1.steamserver.net:27020"
+			"type"	"websockets"
+			"dc"	"iad1"
+			"realm"	"steamglobal"
+			"load"	"16"
+			"wtd_load"	"112.240741968154907"
+		}
+		"53"
+		{
+			"endpoint"	"cmp2-iad1.steamserver.net:443"
+			"legacy_endpoint"	"cmp2-iad1.steamserver.net:443"
+			"type"	"websockets"
+			"dc"	"iad1"
+			"realm"	"steamglobal"
+			"load"	"16"
+			"wtd_load"	"112.262634992599487"
+		}
+		"54"
+		{
+			"endpoint"	"cmp2-iad1.steamserver.net:443"
+			"legacy_endpoint"	"cmp1-iad1.steamserver.net:443"
+			"type"	"websockets"
+			"dc"	"iad1"
+			"realm"	"steamglobal"
+			"load"	"16"
+			"wtd_load"	"112.704223394393921"
+		}
+		"55"
+		{
+			"endpoint"	"cmp1-iad1.steamserver.net:27020"
+			"legacy_endpoint"	"cmp2-iad1.steamserver.net:27020"
+			"type"	"websockets"
+			"dc"	"iad1"
+			"realm"	"steamglobal"
+			"load"	"17"
+			"wtd_load"	"112.844804286956787"
+		}
+		"56"
+		{
+			"endpoint"	"cmp1-iad1.steamserver.net:443"
+			"legacy_endpoint"	"cmp1-iad1.steamserver.net:443"
+			"type"	"websockets"
+			"dc"	"iad1"
+			"realm"	"steamglobal"
+			"load"	"15"
+			"wtd_load"	"113.106317162513733"
+		}
+		"57"
+		{
+			"endpoint"	"cmp1-iad1.steamserver.net:27018"
+			"legacy_endpoint"	"cmp2-iad1.steamserver.net:27018"
+			"type"	"websockets"
+			"dc"	"iad1"
+			"realm"	"steamglobal"
+			"load"	"19"
+			"wtd_load"	"113.424017906188965"
+		}
+		"58"
+		{
+			"endpoint"	"cmp1-iad1.steamserver.net:27018"
+			"legacy_endpoint"	"cmp1-iad1.steamserver.net:27018"
+			"type"	"websockets"
+			"dc"	"iad1"
+			"realm"	"steamglobal"
+			"load"	"19"
+			"wtd_load"	"113.453930377960205"
+		}
+		"59"
+		{
+			"endpoint"	"cmp1-iad1.steamserver.net:27020"
+			"legacy_endpoint"	"cmp2-iad1.steamserver.net:27020"
+			"type"	"websockets"
+			"dc"	"iad1"
+			"realm"	"steamglobal"
+			"load"	"17"
+			"wtd_load"	"113.822681188583374"
+		}
+		"60"
+		{
+			"endpoint"	"cmp1-iad1.steamserver.net:443"
+			"legacy_endpoint"	"cmp2-iad1.steamserver.net:443"
+			"type"	"websockets"
+			"dc"	"iad1"
+			"realm"	"steamglobal"
+			"load"	"15"
+			"wtd_load"	"113.972089171409607"
+		}
+		"61"
+		{
+			"endpoint"	"cmp1-iad1.steamserver.net:27019"
+			"legacy_endpoint"	"cmp1-iad1.steamserver.net:27019"
+			"type"	"websockets"
+			"dc"	"iad1"
+			"realm"	"steamglobal"
+			"load"	"19"
+			"wtd_load"	"114.088749885559082"
+		}
+		"62"
+		{
+			"endpoint"	"cmp1-iad1.steamserver.net:27020"
+			"legacy_endpoint"	"cmp1-iad1.steamserver.net:27020"
+			"type"	"websockets"
+			"dc"	"iad1"
+			"realm"	"steamglobal"
+			"load"	"17"
+			"wtd_load"	"114.118828296661377"
+		}
+		"63"
+		{
+			"endpoint"	"cmp1-iad1.steamserver.net:27018"
+			"legacy_endpoint"	"cmp2-iad1.steamserver.net:27018"
+			"type"	"websockets"
+			"dc"	"iad1"
+			"realm"	"steamglobal"
+			"load"	"19"
+			"wtd_load"	"114.233628273010254"
+		}
+		"64"
+		{
+			"endpoint"	"ext1-par1.steamserver.net:443"
+			"legacy_endpoint"	"ext1-par1.steamserver.net:443"
+			"type"	"websockets"
+			"dc"	"par1"
+			"realm"	"steamglobal"
+			"load"	"48"
+			"wtd_load"	"115.295583724975586"
+		}
+		"65"
+		{
+			"endpoint"	"cmp1-iad1.steamserver.net:443"
+			"legacy_endpoint"	"cmp1-iad1.steamserver.net:443"
+			"type"	"websockets"
+			"dc"	"iad1"
+			"realm"	"steamglobal"
+			"load"	"18"
+			"wtd_load"	"116.424753546714783"
+		}
+		"66"
+		{
+			"endpoint"	"cmp2-iad1.steamserver.net:27019"
+			"legacy_endpoint"	"cmp2-iad1.steamserver.net:27019"
+			"type"	"websockets"
+			"dc"	"iad1"
+			"realm"	"steamglobal"
+			"load"	"19"
+			"wtd_load"	"120.687459349632263"
+		}
+		"67"
+		{
+			"endpoint"	"cmp2-iad1.steamserver.net:27018"
+			"legacy_endpoint"	"cmp2-iad1.steamserver.net:27018"
+			"type"	"websockets"
+			"dc"	"iad1"
+			"realm"	"steamglobal"
+			"load"	"19"
+			"wtd_load"	"121.908409833908081"
+		}
+		"68"
+		{
+			"endpoint"	"cmp1-ams1.steamserver.net:27018"
+			"legacy_endpoint"	"cmp2-ams1.steamserver.net:27018"
+			"type"	"websockets"
+			"dc"	"ams1"
+			"realm"	"steamglobal"
+			"load"	"52"
+			"wtd_load"	"124.385847568511963"
+		}
+		"69"
+		{
+			"endpoint"	"cmp1-ams1.steamserver.net:443"
+			"legacy_endpoint"	"cmp1-ams1.steamserver.net:443"
+			"type"	"websockets"
+			"dc"	"ams1"
+			"realm"	"steamglobal"
+			"load"	"54"
+			"wtd_load"	"124.445021629333496"
+		}
+		"70"
+		{
+			"endpoint"	"cmp2-ams1.steamserver.net:27018"
+			"legacy_endpoint"	"cmp1-ams1.steamserver.net:27018"
+			"type"	"websockets"
+			"dc"	"ams1"
+			"realm"	"steamglobal"
+			"load"	"52"
+			"wtd_load"	"125.653738498687744"
+		}
+		"71"
+		{
+			"endpoint"	"cmp1-ams1.steamserver.net:27018"
+			"legacy_endpoint"	"cmp1-ams1.steamserver.net:27018"
+			"type"	"websockets"
+			"dc"	"ams1"
+			"realm"	"steamglobal"
+			"load"	"52"
+			"wtd_load"	"126.393815040588379"
+		}
+		"72"
+		{
+			"endpoint"	"cmp1-ams1.steamserver.net:27018"
+			"legacy_endpoint"	"cmp2-ams1.steamserver.net:27018"
+			"type"	"websockets"
+			"dc"	"ams1"
+			"realm"	"steamglobal"
+			"load"	"52"
+			"wtd_load"	"126.893320083618164"
+		}
+		"73"
+		{
+			"endpoint"	"cmp2-ams1.steamserver.net:443"
+			"legacy_endpoint"	"cmp1-ams1.steamserver.net:443"
+			"type"	"websockets"
+			"dc"	"ams1"
+			"realm"	"steamglobal"
+			"load"	"53"
+			"wtd_load"	"128.722054958343506"
+		}
+		"74"
+		{
+			"endpoint"	"cmp2-ams1.steamserver.net:443"
+			"legacy_endpoint"	"cmp2-ams1.steamserver.net:443"
+			"type"	"websockets"
+			"dc"	"ams1"
+			"realm"	"steamglobal"
+			"load"	"53"
+			"wtd_load"	"128.750639915466309"
+		}
+		"75"
+		{
+			"endpoint"	"cmp2-ams1.steamserver.net:443"
+			"legacy_endpoint"	"cmp2-ams1.steamserver.net:443"
+			"type"	"websockets"
+			"dc"	"ams1"
+			"realm"	"steamglobal"
+			"load"	"53"
+			"wtd_load"	"129.597457885742188"
+		}
+		"76"
+		{
+			"endpoint"	"cmp2-ams1.steamserver.net:443"
+			"legacy_endpoint"	"cmp1-ams1.steamserver.net:443"
+			"type"	"websockets"
+			"dc"	"ams1"
+			"realm"	"steamglobal"
+			"load"	"53"
+			"wtd_load"	"129.648359060287476"
+		}
+		"77"
+		{
+			"endpoint"	"cmp2-ams1.steamserver.net:443"
+			"legacy_endpoint"	"cmp1-ams1.steamserver.net:443"
+			"type"	"websockets"
+			"dc"	"ams1"
+			"realm"	"steamglobal"
+			"load"	"53"
+			"wtd_load"	"129.987304925918579"
+		}
+		"78"
+		{
+			"endpoint"	"cmp1-ams1.steamserver.net:443"
+			"legacy_endpoint"	"cmp2-ams1.steamserver.net:443"
+			"type"	"websockets"
+			"dc"	"ams1"
+			"realm"	"steamglobal"
+			"load"	"53"
+			"wtd_load"	"130.24232006072998"
+		}
+		"79"
+		{
+			"endpoint"	"cmp1-ams1.steamserver.net:27018"
+			"legacy_endpoint"	"cmp2-ams1.steamserver.net:27018"
+			"type"	"websockets"
+			"dc"	"ams1"
+			"realm"	"steamglobal"
+			"load"	"52"
+			"wtd_load"	"130.505651473999023"
+		}
+		"80"
+		{
+			"endpoint"	"cmp1-ams1.steamserver.net:27018"
+			"legacy_endpoint"	"cmp2-ams1.steamserver.net:27018"
+			"type"	"websockets"
+			"dc"	"ams1"
+			"realm"	"steamglobal"
+			"load"	"52"
+			"wtd_load"	"130.566156625747681"
+		}
+		"81"
+		{
+			"endpoint"	"cmp1-ams1.steamserver.net:27018"
+			"legacy_endpoint"	"cmp1-ams1.steamserver.net:27018"
+			"type"	"websockets"
+			"dc"	"ams1"
+			"realm"	"steamglobal"
+			"load"	"52"
+			"wtd_load"	"130.863456964492798"
+		}
+		"82"
+		{
+			"endpoint"	"cmp2-ams1.steamserver.net:443"
+			"legacy_endpoint"	"cmp1-ams1.steamserver.net:443"
+			"type"	"websockets"
+			"dc"	"ams1"
+			"realm"	"steamglobal"
+			"load"	"53"
+			"wtd_load"	"130.937392234802246"
+		}
+		"83"
+		{
+			"endpoint"	"cmp1-ams1.steamserver.net:443"
+			"legacy_endpoint"	"cmp1-ams1.steamserver.net:443"
+			"type"	"websockets"
+			"dc"	"ams1"
+			"realm"	"steamglobal"
+			"load"	"53"
+			"wtd_load"	"130.93846607208252"
+		}
+		"84"
+		{
+			"endpoint"	"155.133.248.38:27017"
+			"legacy_endpoint"	"155.133.248.38:27017"
+			"type"	"netfilter"
+			"dc"	"ams1"
+			"realm"	"steamglobal"
+			"load"	"53"
+			"wtd_load"	"131.504445433616638"
+		}
+		"85"
+		{
+			"endpoint"	"cmp2-ams1.steamserver.net:443"
+			"legacy_endpoint"	"cmp2-ams1.steamserver.net:443"
+			"type"	"websockets"
+			"dc"	"ams1"
+			"realm"	"steamglobal"
+			"load"	"53"
+			"wtd_load"	"131.632172584533691"
+		}
+		"86"
+		{
+			"endpoint"	"cmp1-ams1.steamserver.net:27018"
+			"legacy_endpoint"	"cmp2-ams1.steamserver.net:27018"
+			"type"	"websockets"
+			"dc"	"ams1"
+			"realm"	"steamglobal"
+			"load"	"52"
+			"wtd_load"	"131.674503296613693"
+		}
+		"87"
+		{
+			"endpoint"	"cmp2-ams1.steamserver.net:27018"
+			"legacy_endpoint"	"cmp1-ams1.steamserver.net:27018"
+			"type"	"websockets"
+			"dc"	"ams1"
+			"realm"	"steamglobal"
+			"load"	"52"
+			"wtd_load"	"131.772289246320724"
+		}
+		"88"
+		{
+			"endpoint"	"cmp2-ams1.steamserver.net:443"
+			"legacy_endpoint"	"cmp1-ams1.steamserver.net:443"
+			"type"	"websockets"
+			"dc"	"ams1"
+			"realm"	"steamglobal"
+			"load"	"53"
+			"wtd_load"	"134.03601348400116"
+		}
+	}
+	"success"	"1"
+	"message"	""
+}

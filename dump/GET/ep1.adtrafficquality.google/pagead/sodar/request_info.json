@@ -1,0 +1,33 @@
+{
+  "method": "GET",
+  "url": "https://ep1.adtrafficquality.google/pagead/sodar?id=sodar2\u0026v=237\u0026t=2\u0026li=gpt_m202509160101\u0026jk=8104352554617918\u0026bg=!V1SlVBvNAAY4zpcCGM47ADQBe5WfOB6dS2LVQdhmapyOBZ5eNrqXvPRlJ_gkUd0JjzFI43cDu6sP1E6jBWgaXC-5Iir7AgAAFOBSAAAAG2gBB34ANt1oi3lyhUwj_fOXql74mIdOdht_0r8ExnpPrmZzTyrhndKi4CoQJ679xkY_lV32w2VaIrqlRJkCZID7i2cx2VgG9A9o8FCcI5zRxUlFaL-mKEj952dC_qo0VgPtKy2rhf9hveN9YjeWjf0TXSauMGtRPmCvCDQaAaWG-gq4__M7q2SAHqOPre9wyUoyYOA31h4yBj2jsKoAnHfvVhxdQ_icckSZGp18xtomA31M7WykZ0umwzF2Sr9YJjHdUa2osNHzj2itLpagM3siEGJOPKdppey6B3K4QMp1sQhfbiQFegY-EFR8_viCse0ep2X-WuvcV-eu7iZpAe2ktUpGOpUGomjMtRFdFHzrrxzwhphtuv-mfrUoqwXbqzE_evpeE1H8fyTbwpM0Owr_tpVttd42D6eT53tvgsoA7QuHM55YuzYWBcQYApWlITdyd0YPXfHMwqFOpq2nz1JSycoHV-13OJMtRUDI47UD4iFdbIX78nxQUUn5oltNQ-hX0mqWosV85wJEYLcdgdJqPWA6afimlHz5CBM_coXsX30hxuc0wm3QXfBjrbdJcXBJHlS3wVes11vOKf1BWeQo6Lg2zkibAEY3j0jALL7GCjWTDiCg_KNX4G3twElIG8tlvHkMSlllvHwOraNu8RnupdM38X4qNhHfoCInaghBYsKK3sscyXy7HhFXNoCJT6ybedEsau7Weg4tfR4lQAqVpNEmc_vsCi9Qlo6s2kZ6fzpNDWzAYi6rEnEJPYXZGEolOt0Rzy9sK1C6VMClwuooGeOT6nY_znctuynyPVxNBhH1mRg3oUSaTYwi3bAw2rLVAz82OV1Y_MOYgSP-Jcq7MzZtJvJuftCUVxDWAWa2O91PUJxwT75CunsWOs9xpJwdpw",
+  "timestamp": "20250918_182201",
+  "query": "?id=sodar2\u0026v=237\u0026t=2\u0026li=gpt_m202509160101\u0026jk=8104352554617918\u0026bg=!V1SlVBvNAAY4zpcCGM47ADQBe5WfOB6dS2LVQdhmapyOBZ5eNrqXvPRlJ_gkUd0JjzFI43cDu6sP1E6jBWgaXC-5Iir7AgAAFOBSAAAAG2gBB34ANt1oi3lyhUwj_fOXql74mIdOdht_0r8ExnpPrmZzTyrhndKi4CoQJ679xkY_lV32w2VaIrqlRJkCZID7i2cx2VgG9A9o8FCcI5zRxUlFaL-mKEj952dC_qo0VgPtKy2rhf9hveN9YjeWjf0TXSauMGtRPmCvCDQaAaWG-gq4__M7q2SAHqOPre9wyUoyYOA31h4yBj2jsKoAnHfvVhxdQ_icckSZGp18xtomA31M7WykZ0umwzF2Sr9YJjHdUa2osNHzj2itLpagM3siEGJOPKdppey6B3K4QMp1sQhfbiQFegY-EFR8_viCse0ep2X-WuvcV-eu7iZpAe2ktUpGOpUGomjMtRFdFHzrrxzwhphtuv-mfrUoqwXbqzE_evpeE1H8fyTbwpM0Owr_tpVttd42D6eT53tvgsoA7QuHM55YuzYWBcQYApWlITdyd0YPXfHMwqFOpq2nz1JSycoHV-13OJMtRUDI47UD4iFdbIX78nxQUUn5oltNQ-hX0mqWosV85wJEYLcdgdJqPWA6afimlHz5CBM_coXsX30hxuc0wm3QXfBjrbdJcXBJHlS3wVes11vOKf1BWeQo6Lg2zkibAEY3j0jALL7GCjWTDiCg_KNX4G3twElIG8tlvHkMSlllvHwOraNu8RnupdM38X4qNhHfoCInaghBYsKK3sscyXy7HhFXNoCJT6ybedEsau7Weg4tfR4lQAqVpNEmc_vsCi9Qlo6s2kZ6fzpNDWzAYi6rEnEJPYXZGEolOt0Rzy9sK1C6VMClwuooGeOT6nY_znctuynyPVxNBhH1mRg3oUSaTYwi3bAw2rLVAz82OV1Y_MOYgSP-Jcq7MzZtJvJuftCUVxDWAWa2O91PUJxwT75CunsWOs9xpJwdpw",
+  "headers": {
+    "Host": "ep1.adtrafficquality.google",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0",
+    "Accept": "image/avif,image/webp,image/png,image/svg\u002Bxml,image/*;q=0.8,*/*;q=0.5",
+    "Accept-Language": "en-US,en;q=0.5",
+    "Connection": "keep-alive",
+    "Referer": "https://1v1.lol/",
+    "Sec-Fetch-Dest": "image",
+    "Sec-Fetch-Mode": "no-cors",
+    "Sec-Fetch-Site": "cross-site",
+    "Priority": "u=5, i",
+    "Pragma": "no-cache",
+    "Cache-Control": "no-cache",
+    "Accept-Encoding": "gzip, deflate"
+  },
+  "response_status": 204,
+  "response_headers": {
+    "P3P": "policyref=\u0022https://www.googleadservices.com/pagead/p3p.xml\u0022, CP=\u0022NOI DEV PSA PSD IVA IVD OTP OUR OTR IND OTC\u0022",
+    "Timing-Allow-Origin": "*",
+    "Cross-Origin-Resource-Policy": "cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Date": "Thu, 18 Sep 2025 18:22:01 GMT",
+    "Server": "cafe",
+    "X-XSS-Protection": "0",
+    "Alt-Svc": "h3=\u0022:443\u0022; ma=2592000, h3-29=\u0022:443\u0022; ma=2592000"
+  },
+  "response_filename": "sodar"
+}

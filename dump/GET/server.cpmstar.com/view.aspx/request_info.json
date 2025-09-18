@@ -1,0 +1,31 @@
+{
+  "method": "GET",
+  "url": "https://server.cpmstar.com/view.aspx?poolid=83026\u0026json=c_mp\u0026mv=1\u0026gampb=1\u0026multi=3\u0026w=960\u0026h=540\u0026callback=e1azmuf\u0026referer=https%3A%2F%2F1v1.lol%2F",
+  "timestamp": "20250918_184447",
+  "query": "?poolid=83026\u0026json=c_mp\u0026mv=1\u0026gampb=1\u0026multi=3\u0026w=960\u0026h=540\u0026callback=e1azmuf\u0026referer=https%3A%2F%2F1v1.lol%2F",
+  "headers": {
+    "Host": "server.cpmstar.com",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0",
+    "Accept": "*/*",
+    "Accept-Language": "en-US,en;q=0.5",
+    "Connection": "keep-alive",
+    "Referer": "https://1v1.lol/",
+    "Cookie": "USER_ID=%24%60%10%93%94%d7%1eQ%13%e2%1c%8a%90%ed%e7; uids=eyJ0ZW1wVUlEcyI6eyJvbmV0YWciOnsidWlkIjoiYUlaNHcyeXI3UUFmTHRvYmlvN2E2RWFfZHVhYldFWFBpVWlnWmtFREEySSIsImV4cGlyZXMiOiIyMDI1LTEwLTAyVDE0OjMzOjM1LjQyNDk5NzUxOFoifSwib3BlbngiOnsidWlkIjoiYzIzMjk1ZDAtMDk1My00YTk4LWFhMzgtYTE2Njk1NDJjZWViIiwiZXhwaXJlcyI6IjIwMjUtMTAtMDJUMTQ6MzM6MzcuNjM3MzM2MDAzWiJ9LCJwdWJtYXRpYyI6eyJ1aWQiOiJFMzYwNzc4Qy1FNUY3LTQ2ODAtQkFFNi00QTkwMUE5MTlCNzMiLCJleHBpcmVzIjoiMjAyNS0xMC0wMlQxNDozNToyMy40MTc1NDMxOThaIn0sInJ1Ymljb24iOnsidWlkIjoiTUZQSUdSR0UtMTEtSjUxRiIsImV4cGlyZXMiOiIyMDI1LTEwLTAyVDE0OjMzOjM0LjkxOVoifSwidHJpcGxlbGlmdCI6eyJ1aWQiOiIzMzYwMDExNDMzNTU2NzYyMzczNDU5IiwiZXhwaXJlcyI6IjIwMjUtMTAtMDJUMTQ6MzM6MzYuNjA3MTU5MDU5WiJ9fX0=",
+    "Sec-Fetch-Dest": "script",
+    "Sec-Fetch-Mode": "no-cors",
+    "Sec-Fetch-Site": "cross-site",
+    "Pragma": "no-cache",
+    "Cache-Control": "no-cache",
+    "Accept-Encoding": "gzip, deflate"
+  },
+  "response_status": 200,
+  "response_headers": {
+    "Cache-Control": "no-store, must-revalidate, no-cache, private",
+    "Pragma": "no-cache",
+    "Server": "Microsoft-IIS/10.0",
+    "P3P": "policyref=\u0022/w3c/p3p.xml\u0022, CP=\u0022NOI NID CURa ADM DEVa PSAa PSDa OUR OTR IND UNI NAV STA\u0022",
+    "Date": "Thu, 18 Sep 2025 18:44:46 GMT",
+    "Transfer-Encoding": "chunked"
+  },
+  "response_filename": "view.aspx"
+}

@@ -1,0 +1,39 @@
+{
+  "method": "GET",
+  "url": "https://www.gstatic.com/firebasejs/7.2.1/firebase-firestore.js",
+  "timestamp": "20250918_181754",
+  "query": "",
+  "headers": {
+    "Host": "www.gstatic.com",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0",
+    "Accept": "*/*",
+    "Accept-Language": "en-US,en;q=0.5",
+    "Connection": "keep-alive",
+    "Referer": "https://1v1.lol/",
+    "Sec-Fetch-Dest": "script",
+    "Sec-Fetch-Mode": "no-cors",
+    "Sec-Fetch-Site": "cross-site",
+    "Priority": "u=2",
+    "Pragma": "no-cache",
+    "Cache-Control": "no-cache",
+    "Accept-Encoding": "gzip, deflate"
+  },
+  "response_status": 200,
+  "response_headers": {
+    "Accept-Ranges": "bytes",
+    "Access-Control-Allow-Origin": "*",
+    "Content-Security-Policy-Report-Only": "require-trusted-types-for \u0027script\u0027; report-uri https://csp.withgoogle.com/csp/firebase-js",
+    "Cross-Origin-Resource-Policy": "cross-origin",
+    "Cross-Origin-Opener-Policy": "same-origin-allow-popups; report-to=\u0022firebase-js\u0022",
+    "Report-To": "{\u0022group\u0022:\u0022firebase-js\u0022,\u0022max_age\u0022:2592000,\u0022endpoints\u0022:[{\u0022url\u0022:\u0022https://csp.withgoogle.com/csp/report-to/firebase-js\u0022}]}",
+    "X-Content-Type-Options": "nosniff",
+    "Server": "sffe",
+    "X-XSS-Protection": "0",
+    "Date": "Thu, 18 Sep 2025 17:27:32 GMT",
+    "Cache-Control": "public, max-age=31536000",
+    "Vary": "Accept-Encoding",
+    "Age": "3022",
+    "Alt-Svc": "h3=\u0022:443\u0022; ma=2592000, h3-29=\u0022:443\u0022; ma=2592000"
+  },
+  "response_filename": "firebase-firestore.js"
+}

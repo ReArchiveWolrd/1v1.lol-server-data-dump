@@ -1,0 +1,35 @@
+{
+  "method": "GET",
+  "url": "https://onevone.psf.playtika.com/login-service/me",
+  "timestamp": "20250918_182410",
+  "query": "",
+  "headers": {
+    "Host": "onevone.psf.playtika.com",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0",
+    "Accept": "*/*",
+    "Accept-Language": "en-US,en;q=0.5",
+    "Referer": "https://1v1.lol/",
+    "Authorization": "Bearer eyJraWQiOiJHVk5jZWlmRk9KX19hX2VNWkJ5OGt1YWdCRm1pNV9NUkNScE95SE5ZV0Q0IiwidHlwIjoiSldUIiwiYWxnIjoiUlMyNTYifQ.eyJjcmVkZW50aWFsVHlwZSI6ImV4dGVybmFsVXNlcklkIiwiY3JlZGVudGlhbFZhbHVlIjoiUDZxZ2U2WWFUU1czQlc2b1JuVEo3NkpsdnV2MSIsImlzcyI6ImxvZ2luLXNlcnZpY2UiLCJzZXNzaW9uSWQiOiIyNjc0NTE2NjYxODE0Nzc3MTcyIiwiZXhwIjoxNzU4MzA2MjM5LCJpYXQiOjE3NTgyMTk4MzksInVzZXJJZCI6IjI5NDYxNzA2MSIsImp0aSI6Ijc2YjBhZTM1LTc1MWMtNDNiZC04MGVkLWNkZTc3ZTY4YWFhMCJ9.AJ3v2JKqizWtrJFqM8CQXmnG9Fynel0qfkiBYkXVbVpTLY7Mvm6DN_cWuyy81_zdT67YbMZLHWLzF1LzbaTuYe8WsYm4SNvCDJf8NanSa1YpJSTApHgD6zpJO5uFRIQY2MQ3Gh96BQhbRndwpgzvvis-V-WD3kdNCsc22NLHYCJDnaWEWiAq2FkXCb61VPNRcenlQX6-O7lYQtcXNnmj6soDlPUPGq6ydXT5mDRB9cENGWGOkprRlpsr_W1vFgidhV8OVJYRlBGLo0OSsVBVM9smmxwTvkmoxS3ss5XCpoYdbkh5KilcH7e5ZrJRKkeeR_dOK3GkruO2VavaBf3RhA",
+    "Origin": "https://1v1.lol",
+    "Connection": "keep-alive",
+    "Sec-Fetch-Dest": "empty",
+    "Sec-Fetch-Mode": "cors",
+    "Sec-Fetch-Site": "cross-site",
+    "Priority": "u=4",
+    "Pragma": "no-cache",
+    "Cache-Control": "no-cache",
+    "Accept-Encoding": "gzip, deflate"
+  },
+  "response_status": 401,
+  "response_headers": {
+    "Vary": "Origin, Access-Control-Request-Method, Access-Control-Request-Headers",
+    "X-DC": "CA1",
+    "Cache-Control": "no-store, no-cache, max-age=0",
+    "Pragma": "no-cache",
+    "Date": "Thu, 18 Sep 2025 18:24:10 GMT",
+    "Connection": "keep-alive",
+    "Server-Timing": "cdn-cache; desc=MISS, edge; dur=425, origin; dur=5, ak_p; desc=\u00221758219849627_1490900877_228379439_43454_12886_116_179_-\u0022;dur=1",
+    "Alt-Svc": "h3=\u0022:443\u0022; ma=93600"
+  },
+  "response_filename": "me"
+}

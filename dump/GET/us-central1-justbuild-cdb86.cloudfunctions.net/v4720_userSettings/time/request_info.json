@@ -1,0 +1,36 @@
+{
+  "method": "GET",
+  "url": "https://us-central1-justbuild-cdb86.cloudfunctions.net/v4720_userSettings/time",
+  "timestamp": "20250918_182405",
+  "query": "",
+  "headers": {
+    "Host": "us-central1-justbuild-cdb86.cloudfunctions.net",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0",
+    "Accept": "*/*",
+    "Accept-Language": "en-US,en;q=0.5",
+    "Referer": "https://1v1.lol/",
+    "Content-Type": "application/x-www-form-urlencoded",
+    "firebase-config-ids": "{\u0022VersionID\u0022:\u0022default\u0022,\u0022BattlePassID\u0022:\u0022default\u0022,\u0022DailyRewardsID\u0022:\u0022default\u0022,\u0022GameModesID\u0022:\u0022default\u0022,\u0022RankXPGainPerGameModeId\u0022:\u0022default\u0022,\u0022StoreSettingsID\u0022:\u0022champions\u0022,\u0022SubscriptionsId\u0022:\u0022default\u0022,\u0022ChampionsID\u0022:\u0022default\u0022,\u0022ProductsID\u0022:\u0022champions\u0022,\u0022GeneralConfigID\u0022:\u0022web\u0022,\u0022AdsSettingsID\u0022:\u0022default\u0022,\u0022ChallengesID\u0022:\u0022default\u0022,\u0022TrophyRoadID\u0022:\u0022default\u0022,\u0022RankRoadID\u0022:\u0022champions\u0022,\u0022LootBoxesId\u0022:\u0022default\u0022,\u0022GameplaySettingsID\u0022:\u0022default\u0022,\u0022FTUEConfigID\u0022:\u0022default\u0022,\u0022LimitedLockerSpinID\u0022:\u0022default\u0022,\u0022XPBankID\u0022:\u0022default\u0022,\u0022LeaderboardsID\u0022:\u0022default\u0022,\u0022EquipmentID\u0022:\u0022default\u0022,\u0022LootBoxesGachaId\u0022:\u0022champions\u0022,\u0022ProgressionEventsID\u0022:\u0022default\u0022,\u0022CheaterSettingsID\u0022:\u0022default\u0022,\u0022AlbumSettingsID\u0022:\u0022default\u0022,\u0022DailySpinsId\u0022:\u0022champions\u0022}",
+    "Origin": "https://1v1.lol",
+    "Connection": "keep-alive",
+    "Sec-Fetch-Dest": "empty",
+    "Sec-Fetch-Mode": "cors",
+    "Sec-Fetch-Site": "cross-site",
+    "Priority": "u=4",
+    "Pragma": "no-cache",
+    "Cache-Control": "no-cache",
+    "Accept-Encoding": "gzip, deflate"
+  },
+  "response_status": 200,
+  "response_headers": {
+    "X-Powered-By": "Express",
+    "Access-Control-Allow-Origin": "*",
+    "ETag": "W/\u00221f-XHb/UewIFiNWXTEWRIECsFrpPCE\u0022",
+    "function-execution-id": "bc3ht5pia31w",
+    "x-cloud-trace-context": "2652f2f4d699407c320c702361404b47",
+    "Date": "Thu, 18 Sep 2025 18:24:05 GMT",
+    "Server": "Google, Frontend",
+    "Alt-Svc": "h3=\u0022:443\u0022; ma=2592000, h3-29=\u0022:443\u0022; ma=2592000"
+  },
+  "response_filename": "time"
+}

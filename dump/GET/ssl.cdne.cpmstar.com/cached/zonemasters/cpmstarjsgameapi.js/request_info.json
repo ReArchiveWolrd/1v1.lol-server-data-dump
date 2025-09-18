@@ -1,0 +1,38 @@
+{
+  "method": "GET",
+  "url": "https://ssl.cdne.cpmstar.com/cached/zonemasters/cpmstarjsgameapi.js?ver=1395",
+  "timestamp": "20250918_181808",
+  "query": "?ver=1395",
+  "headers": {
+    "Host": "ssl.cdne.cpmstar.com",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0",
+    "Accept": "*/*",
+    "Accept-Language": "en-US,en;q=0.5",
+    "Connection": "keep-alive",
+    "Referer": "https://1v1.lol/",
+    "Cookie": "uids=eyJ0ZW1wVUlEcyI6eyJvbmV0YWciOnsidWlkIjoiYUlaNHcyeXI3UUFmTHRvYmlvN2E2RWFfZHVhYldFWFBpVWlnWmtFREEySSIsImV4cGlyZXMiOiIyMDI1LTEwLTAyVDE0OjMzOjM1LjQyNDk5NzUxOFoifSwib3BlbngiOnsidWlkIjoiYzIzMjk1ZDAtMDk1My00YTk4LWFhMzgtYTE2Njk1NDJjZWViIiwiZXhwaXJlcyI6IjIwMjUtMTAtMDJUMTQ6MzM6MzcuNjM3MzM2MDAzWiJ9LCJwdWJtYXRpYyI6eyJ1aWQiOiJFMzYwNzc4Qy1FNUY3LTQ2ODAtQkFFNi00QTkwMUE5MTlCNzMiLCJleHBpcmVzIjoiMjAyNS0xMC0wMlQxNDozNToyMy40MTc1NDMxOThaIn0sInJ1Ymljb24iOnsidWlkIjoiTUZQSUdSR0UtMTEtSjUxRiIsImV4cGlyZXMiOiIyMDI1LTEwLTAyVDE0OjMzOjM0LjkxOVoifSwidHJpcGxlbGlmdCI6eyJ1aWQiOiIzMzYwMDExNDMzNTU2NzYyMzczNDU5IiwiZXhwaXJlcyI6IjIwMjUtMTAtMDJUMTQ6MzM6MzYuNjA3MTU5MDU5WiJ9fX0=",
+    "Sec-Fetch-Dest": "script",
+    "Sec-Fetch-Mode": "no-cors",
+    "Sec-Fetch-Site": "cross-site",
+    "Pragma": "no-cache",
+    "Cache-Control": "no-cache",
+    "Accept-Encoding": "gzip, deflate"
+  },
+  "response_status": 200,
+  "response_headers": {
+    "Server": "nginx",
+    "Date": "Thu, 18 Sep 2025 18:18:08 GMT",
+    "Connection": "keep-alive",
+    "X-ID-FE": "thn2-hw-edge-gc12",
+    "traceparent": "00-b5dc0a19136fd51ae59eb2c085f179b7-1f81aca84dab591f-01",
+    "X-SHARD": "thn2-shard0-default",
+    "Cache-Control": "no-store, must-revalidate, no-cache",
+    "Pragma": "no-cache",
+    "ETag": "\u00221638705bce80da1:0\u0022",
+    "P3P": "policyref=\u0022/w3c/p3p.xml\u0022, CP=\u0022NOI NID CURa ADM DEVa PSAa PSDa OUR OTR IND UNI NAV STA\u0022",
+    "X-ID": "thn2-hw-edge-gc27",
+    "Cache": "MISS",
+    "Accept-Ranges": "bytes"
+  },
+  "response_filename": "cpmstarjsgameapi.js"
+}

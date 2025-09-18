@@ -1,0 +1,1 @@
+emotes=%7b%22data%22%3a%5b%22lol.1v1.playeremotes.pack.5%22%2c%22lol.1v1.playerstickers.pack.6%22%2c%22lol.1v1.playeremotes.pack.3%22%2c%22lol.1v1.playerstickers.pack.16%22%2cnull%2cnull%2cnull%2cnull%5d%7d

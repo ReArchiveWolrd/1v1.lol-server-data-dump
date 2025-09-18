@@ -1,0 +1,34 @@
+{
+  "method": "POST",
+  "url": "https://player-auth.services.api.unity.com/v1/authentication/anonymous",
+  "timestamp": "20250918_182517",
+  "query": "",
+  "headers": {
+    "Host": "player-auth.services.api.unity.com",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0",
+    "Accept": "*/*",
+    "Accept-Language": "en-US,en;q=0.5",
+    "Referer": "https://1v1.lol/",
+    "Content-Type": "application/json",
+    "ProjectId": "5a2ce47c-952e-47ad-8b25-bedb54366fdb",
+    "Origin": "https://1v1.lol",
+    "Connection": "keep-alive",
+    "Sec-Fetch-Dest": "empty",
+    "Sec-Fetch-Mode": "cors",
+    "Sec-Fetch-Site": "cross-site",
+    "Priority": "u=4",
+    "Pragma": "no-cache",
+    "Cache-Control": "no-cache",
+    "Accept-Encoding": "gzip, deflate",
+    "Content-Length": "0"
+  },
+  "response_status": 404,
+  "response_headers": {
+    "Date": "Thu, 18 Sep 2025 18:25:16 GMT",
+    "Server": "istio-envoy",
+    "X-Request-ID": "ba90ab0d-b34c-4c09-afca-9c20db57a5e2",
+    "Via": "1.1 google",
+    "Alt-Svc": "h3=\u0022:443\u0022; ma=2592000, h3-29=\u0022:443\u0022; ma=2592000"
+  },
+  "response_filename": "anonymous"
+}

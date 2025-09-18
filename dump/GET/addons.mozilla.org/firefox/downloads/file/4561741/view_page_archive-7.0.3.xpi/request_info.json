@@ -1,0 +1,41 @@
+{
+  "method": "GET",
+  "url": "https://addons.mozilla.org/firefox/downloads/file/4561741/view_page_archive-7.0.3.xpi",
+  "timestamp": "20250918_182523",
+  "query": "",
+  "headers": {
+    "Host": "addons.mozilla.org",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0",
+    "Accept": "*/*",
+    "Accept-Language": "en-US,en;q=0.5",
+    "Connection": "keep-alive",
+    "Sec-Fetch-Dest": "empty",
+    "Sec-Fetch-Mode": "no-cors",
+    "Sec-Fetch-Site": "cross-site",
+    "If-Modified-Since": "Fri, 22 Aug 2025 13:53:48 GMT",
+    "Priority": "u=4",
+    "Accept-Encoding": "gzip, deflate"
+  },
+  "response_status": 200,
+  "response_headers": {
+    "Connection": "keep-alive",
+    "Access-Control-Allow-Origin": "*",
+    "Cache-Control": "max-age=86400",
+    "X-Content-Type-Options": "nosniff",
+    "Content-Security-Policy": "font-src \u0027self\u0027 https://addons.mozilla.org/static-server/; media-src https://videos.cdn.mozilla.net; child-src https://www.recaptcha.net/recaptcha/; object-src \u0027none\u0027; script-src https://*.google-analytics.com https://*.googletagmanager.com https://www.recaptcha.net/recaptcha/ https://www.gstatic.com/recaptcha/ https://www.gstatic.cn/recaptcha/ https://addons.mozilla.org/static-server/; form-action \u0027self\u0027; default-src \u0027none\u0027; connect-src \u0027self\u0027 https://*.google-analytics.com https://*.analytics.google.com https://*.googletagmanager.com; img-src \u0027self\u0027 blob: data: https://addons.mozilla.org/static-server/ https://addons.mozilla.org/user-media/ https://*.google-analytics.com https://*.googletagmanager.com; frame-src https://www.recaptcha.net/recaptcha/; style-src \u0027unsafe-inline\u0027 https://addons.mozilla.org/static-server/; report-uri /__cspreport__",
+    "X-Frame-Options": "DENY",
+    "Referrer-Policy": "same-origin",
+    "Via": "1.1 google, 1.1 varnish, 1.1 varnish, 1.1 varnish",
+    "Strict-Transport-Security": "max-age=31536000",
+    "Server": "openresty",
+    "Accept-Ranges": "bytes",
+    "Age": "0",
+    "Date": "Thu, 18 Sep 2025 18:25:22 GMT",
+    "X-Served-By": "cache-bfi-kbfi7400037-BFI, cache-bfi-kbfi7400093-BFI, cache-lhr-egll1980072-LHR",
+    "X-Cache": "MISS, MISS, MISS",
+    "X-Cache-Hits": "0, 0, 0",
+    "X-Timer": "S1758219923.664443,VS0,VE190",
+    "Vary": "X-Country-Code"
+  },
+  "response_filename": "view_page_archive-7.0.3.xpi"
+}

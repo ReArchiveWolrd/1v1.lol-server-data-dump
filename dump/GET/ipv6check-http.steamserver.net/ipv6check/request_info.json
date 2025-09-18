@@ -1,0 +1,22 @@
+{
+  "method": "GET",
+  "url": "http://ipv6check-http.steamserver.net/ipv6check",
+  "timestamp": "20250918_180821",
+  "query": "",
+  "headers": {
+    "Connection": "close",
+    "Host": "ipv6check-http.steamserver.net",
+    "Accept": "text/html,*/*;q=0.9",
+    "accept-charset": "ISO-8859-1,utf-8,*;q=0.7",
+    "user-agent": "Valve/Steam HTTP Client 1.0",
+    "Accept-Encoding": "identity"
+  },
+  "response_status": 200,
+  "response_headers": {
+    "Server": "nginx/1.25.5",
+    "Date": "Thu, 18 Sep 2025 18:08:21 GMT",
+    "Connection": "keep-alive",
+    "Cache-Control": "no-cache"
+  },
+  "response_filename": "ipv6check"
+}

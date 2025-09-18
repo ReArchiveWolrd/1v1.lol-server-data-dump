@@ -1,0 +1,40 @@
+{
+  "method": "HEAD",
+  "url": "https://justplay-cdn.playtika.com/justbuild/1v1Assets/WebGL/Prod/4.701/emotesthumbnails__8158559954b462953112471a9e48205e.bundle",
+  "timestamp": "20250918_184003",
+  "query": "",
+  "headers": {
+    "Host": "justplay-cdn.playtika.com",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0",
+    "Accept": "*/*",
+    "Accept-Language": "en-US,en;q=0.5",
+    "Referer": "https://1v1.lol/",
+    "Origin": "https://1v1.lol",
+    "Connection": "keep-alive",
+    "Sec-Fetch-Dest": "empty",
+    "Sec-Fetch-Mode": "cors",
+    "Sec-Fetch-Site": "cross-site",
+    "Priority": "u=4",
+    "Pragma": "no-cache",
+    "Cache-Control": "no-cache",
+    "Accept-Encoding": "gzip, deflate"
+  },
+  "response_status": 200,
+  "response_headers": {
+    "x-amz-id-2": "1hoJdvwNdTTrYOgzJKeAF/xWmrHPWbgJlcon55uCfPHCW43HH1T0AjKo9p68XgEXTLImcOmoHpC0hJxbUCZpHGsmuw1Q1KjfBi3Znpq6JNI=",
+    "x-amz-request-id": "FBPEX4DFC7F1ZEAC",
+    "ETag": "\u0022a133ffe4daf7b5c6e064880861c84389\u0022",
+    "x-amz-server-side-encryption": "AES256",
+    "Accept-Ranges": "bytes",
+    "Server": "AmazonS3",
+    "Date": "Thu, 18 Sep 2025 18:40:02 GMT",
+    "Alt-Svc": "h3=\u0022:443\u0022; ma=93600, h3-29=\u0022:443\u0022; ma=93600",
+    "Connection": "keep-alive",
+    "Access-Control-Max-Age": "86400",
+    "Access-Control-Allow-Credentials": "false",
+    "Access-Control-Allow-Headers": "*",
+    "Access-Control-Allow-Methods": "GET,HEAD",
+    "Access-Control-Allow-Origin": "*"
+  },
+  "response_filename": "emotesthumbnails__8158559954b462953112471a9e48205e.bundle"
+}

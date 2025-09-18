@@ -1,0 +1,42 @@
+{
+  "method": "GET",
+  "url": "https://hcdn.cpmstar.com/cached/creatives/1269926/30_VO_NOBONUS_EN_HD.mp4",
+  "timestamp": "20250918_183740",
+  "query": "",
+  "headers": {
+    "Host": "hcdn.cpmstar.com",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0",
+    "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
+    "Accept-Language": "en-US,en;q=0.5",
+    "Range": "bytes=294912-",
+    "Connection": "keep-alive",
+    "Referer": "https://1v1.lol/",
+    "Cookie": "uids=eyJ0ZW1wVUlEcyI6eyJvbmV0YWciOnsidWlkIjoiYUlaNHcyeXI3UUFmTHRvYmlvN2E2RWFfZHVhYldFWFBpVWlnWmtFREEySSIsImV4cGlyZXMiOiIyMDI1LTEwLTAyVDE0OjMzOjM1LjQyNDk5NzUxOFoifSwib3BlbngiOnsidWlkIjoiYzIzMjk1ZDAtMDk1My00YTk4LWFhMzgtYTE2Njk1NDJjZWViIiwiZXhwaXJlcyI6IjIwMjUtMTAtMDJUMTQ6MzM6MzcuNjM3MzM2MDAzWiJ9LCJwdWJtYXRpYyI6eyJ1aWQiOiJFMzYwNzc4Qy1FNUY3LTQ2ODAtQkFFNi00QTkwMUE5MTlCNzMiLCJleHBpcmVzIjoiMjAyNS0xMC0wMlQxNDozNToyMy40MTc1NDMxOThaIn0sInJ1Ymljb24iOnsidWlkIjoiTUZQSUdSR0UtMTEtSjUxRiIsImV4cGlyZXMiOiIyMDI1LTEwLTAyVDE0OjMzOjM0LjkxOVoifSwidHJpcGxlbGlmdCI6eyJ1aWQiOiIzMzYwMDExNDMzNTU2NzYyMzczNDU5IiwiZXhwaXJlcyI6IjIwMjUtMTAtMDJUMTQ6MzM6MzYuNjA3MTU5MDU5WiJ9fX0=",
+    "Sec-Fetch-Dest": "video",
+    "Sec-Fetch-Mode": "no-cors",
+    "Sec-Fetch-Site": "cross-site",
+    "Priority": "u=6",
+    "Pragma": "no-cache",
+    "Cache-Control": "no-cache",
+    "Accept-Encoding": "identity"
+  },
+  "response_status": 200,
+  "response_headers": {
+    "Date": "Thu, 18 Sep 2025 18:37:39 GMT",
+    "Connection": "keep-alive",
+    "X-CFF": "B",
+    "Cache-Control": "public",
+    "P3P": "policyref=\u0022/w3c/p3p.xml\u0022, CP=\u0022NOI NID CURa ADM DEVa PSAa PSDa OUR OTR IND UNI NAV STA\u0022",
+    "Access-Control-Allow-Origin": "*",
+    "X-CF3": "M",
+    "CF4Age": "0",
+    "x-cf-tsc": "1758194861",
+    "CF4ttl": "86399.406",
+    "X-CF2": "H",
+    "Server": "CFS, 1124",
+    "X-CF1": "35882:fR.lon1:co:nots:cacheN.lon1-01:H",
+    "X-CF-ReqID": "6c95601e1a2e909e96ccf8189757ad9d",
+    "Accept-Ranges": "bytes"
+  },
+  "response_filename": "30_VO_NOBONUS_EN_HD.mp4"
+}

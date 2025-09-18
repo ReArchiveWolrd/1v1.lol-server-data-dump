@@ -1,0 +1,43 @@
+{
+  "method": "GET",
+  "url": "https://cdn.cookielaw.org/logos/static/ot_persistent_cookie_icon.png",
+  "timestamp": "20250918_181752",
+  "query": "",
+  "headers": {
+    "Host": "cdn.cookielaw.org",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0",
+    "Accept": "image/avif,image/webp,image/png,image/svg\u002Bxml,image/*;q=0.8,*/*;q=0.5",
+    "Accept-Language": "en-US,en;q=0.5",
+    "Connection": "keep-alive",
+    "Referer": "https://1v1.lol/",
+    "Sec-Fetch-Dest": "image",
+    "Sec-Fetch-Mode": "no-cors",
+    "Sec-Fetch-Site": "cross-site",
+    "Priority": "u=4, i",
+    "Pragma": "no-cache",
+    "Cache-Control": "no-cache",
+    "Accept-Encoding": "gzip, deflate"
+  },
+  "response_status": 200,
+  "response_headers": {
+    "Date": "Thu, 18 Sep 2025 18:17:53 GMT",
+    "Connection": "keep-alive",
+    "CF-RAY": "9812d7ba69853d94-LHR",
+    "ETag": "0x8DDF5B52F6267D1",
+    "x-ms-request-id": "3cdd2619-001e-00e2-24a4-2777f8000000",
+    "x-ms-version": "2009-09-19",
+    "x-ms-lease-status": "unlocked",
+    "x-ms-blob-type": "BlockBlob",
+    "Access-Control-Expose-Headers": "x-ms-request-id,Server,x-ms-version,Content-Type,ETag,Last-Modified,Content-MD5,x-ms-lease-status,x-ms-blob-type,Content-Length,Date,Transfer-Encoding",
+    "Access-Control-Allow-Origin": "*",
+    "Cache-Control": "max-age=86400",
+    "CF-Cache-Status": "HIT",
+    "Age": "39042",
+    "Accept-Ranges": "bytes",
+    "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload",
+    "X-Content-Type-Options": "nosniff",
+    "Cross-Origin-Resource-Policy": "cross-origin",
+    "Server": "cloudflare"
+  },
+  "response_filename": "ot_persistent_cookie_icon.png"
+}

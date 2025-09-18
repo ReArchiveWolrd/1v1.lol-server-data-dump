@@ -1,0 +1,40 @@
+{
+  "method": "HEAD",
+  "url": "https://justplay-cdn.playtika.com/justbuild/1v1Assets/WebGL/Prod/4.701/equipmentgraphicdata__646ca1ec36f7a9e079aa7b753c45225a.bundle",
+  "timestamp": "20250918_182942",
+  "query": "",
+  "headers": {
+    "Host": "justplay-cdn.playtika.com",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0",
+    "Accept": "*/*",
+    "Accept-Language": "en-US,en;q=0.5",
+    "Referer": "https://1v1.lol/",
+    "Origin": "https://1v1.lol",
+    "Connection": "keep-alive",
+    "Sec-Fetch-Dest": "empty",
+    "Sec-Fetch-Mode": "cors",
+    "Sec-Fetch-Site": "cross-site",
+    "Priority": "u=4",
+    "Pragma": "no-cache",
+    "Cache-Control": "no-cache",
+    "Accept-Encoding": "gzip, deflate"
+  },
+  "response_status": 200,
+  "response_headers": {
+    "x-amz-id-2": "DJDy3ZjfSb4Edz14zyCargkQgUrTls8PnfHZxEtzXPBnKKN3V2R9v1vfTrk97Snyd6C9C5Mybk9w7EwHosAXikd0r7q\u002BOnQbYwkHjZRKfWI=",
+    "x-amz-request-id": "S4WY4Q1BQNR5F35A",
+    "ETag": "\u0022e964859475f63c8f98c2b1f410a3ae9d-3\u0022",
+    "x-amz-server-side-encryption": "AES256",
+    "Accept-Ranges": "bytes",
+    "Server": "AmazonS3",
+    "Date": "Thu, 18 Sep 2025 18:29:39 GMT",
+    "Alt-Svc": "h3=\u0022:443\u0022; ma=93600, h3-29=\u0022:443\u0022; ma=93600",
+    "Connection": "keep-alive",
+    "Access-Control-Max-Age": "86400",
+    "Access-Control-Allow-Credentials": "false",
+    "Access-Control-Allow-Headers": "*",
+    "Access-Control-Allow-Methods": "GET,HEAD",
+    "Access-Control-Allow-Origin": "*"
+  },
+  "response_filename": "equipmentgraphicdata__646ca1ec36f7a9e079aa7b753c45225a.bundle"
+}

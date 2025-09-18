@@ -1,0 +1,36 @@
+{
+  "method": "GET",
+  "url": "https://firefox.settings.services.mozilla.com/v1/buckets/blocklists/collections/addons-bloomfilters/changeset?_expected=1758220582102\u0026_since=%221758198989219%22",
+  "timestamp": "20250918_183755",
+  "query": "?_expected=1758220582102\u0026_since=%221758198989219%22",
+  "headers": {
+    "Host": "firefox.settings.services.mozilla.com",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0",
+    "Accept": "application/json",
+    "Accept-Language": "en-US,en;q=0.5",
+    "Content-Type": "application/json",
+    "Connection": "keep-alive",
+    "Accept-Encoding": "gzip, deflate"
+  },
+  "response_status": 200,
+  "response_headers": {
+    "Connection": "keep-alive",
+    "Cache-Control": "max-age=3600",
+    "Content-Security-Policy": "default-src \u0027none\u0027; frame-ancestors \u0027none\u0027; base-uri \u0027none\u0027;",
+    "Access-Control-Allow-Origin": "*",
+    "X-Content-Type-Options": "nosniff",
+    "Access-Control-Expose-Headers": "Content-Type, Alert, Content-Length, Retry-After, Backoff",
+    "Strict-Transport-Security": "max-age=31536000",
+    "Server": "nginx",
+    "Via": "1.1 google, 1.1 varnish, 1.1 varnish",
+    "Accept-Ranges": "bytes",
+    "Age": "0",
+    "Date": "Thu, 18 Sep 2025 18:37:55 GMT",
+    "X-Served-By": "cache-lcy-eglc8600040-LCY, cache-lcy-eglc8600086-LCY",
+    "X-Cache": "MISS, MISS",
+    "X-Cache-Hits": "0, 0",
+    "X-Timer": "S1758220675.304134,VS0,VE173",
+    "Vary": "Accept-Encoding"
+  },
+  "response_filename": "changeset"
+}

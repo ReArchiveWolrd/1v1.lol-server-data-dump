@@ -1,0 +1,20 @@
+{
+  "method": "GET",
+  "url": "https://api.steampowered.com/ISteamDirectory/GetCMListForConnect/v0001/?cellid=85\u0026format=vdf\u0026qoslevel=1",
+  "timestamp": "20250918_181413",
+  "query": "?cellid=85\u0026format=vdf\u0026qoslevel=1",
+  "headers": {
+    "accept": "text/html,*/*;q=0.9",
+    "accept-encoding": "gzip,identity,*;q=0",
+    "accept-charset": "ISO-8859-1,utf-8,*;q=0.7",
+    "user-agent": "Valve/Steam HTTP Client 1.0"
+  },
+  "response_status": 200,
+  "response_headers": {
+    "Server": "nginx",
+    "Cache-Control": "public, max-age=3",
+    "Date": "Thu, 18 Sep 2025 18:14:13 GMT",
+    "Connection": "keep-alive"
+  },
+  "response_filename": "unnamed.bin"
+}

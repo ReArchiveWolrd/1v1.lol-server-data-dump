@@ -1,0 +1,38 @@
+{
+  "method": "GET",
+  "url": "https://www.google-analytics.com/analytics.js",
+  "timestamp": "20250918_181806",
+  "query": "",
+  "headers": {
+    "Host": "www.google-analytics.com",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0",
+    "Accept": "*/*",
+    "Accept-Language": "en-US,en;q=0.5",
+    "Connection": "keep-alive",
+    "Referer": "https://1v1.lol/",
+    "Sec-Fetch-Dest": "script",
+    "Sec-Fetch-Mode": "no-cors",
+    "Sec-Fetch-Site": "cross-site",
+    "Pragma": "no-cache",
+    "Cache-Control": "no-cache",
+    "Accept-Encoding": "gzip, deflate"
+  },
+  "response_status": 200,
+  "response_headers": {
+    "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload",
+    "X-Content-Type-Options": "nosniff",
+    "Cross-Origin-Resource-Policy": "cross-origin",
+    "Content-Security-Policy-Report-Only": "script-src \u0027none\u0027; form-action \u0027none\u0027; frame-src \u0027none\u0027; report-uri https://csp.withgoogle.com/csp/scaffolding/ascnsrsgac:225:0",
+    "Cross-Origin-Opener-Policy-Report-Only": "same-origin; report-to=ascnsrsgac:225:0",
+    "Report-To": "{\u0022group\u0022:\u0022ascnsrsgac:225:0\u0022,\u0022max_age\u0022:2592000,\u0022endpoints\u0022:[{\u0022url\u0022:\u0022https://csp.withgoogle.com/csp/report-to/scaffolding/ascnsrsgac:225:0\u0022}],}",
+    "Server": "Golfe2",
+    "Date": "Thu, 18 Sep 2025 16:24:48 GMT",
+    "Cache-Control": "public, max-age=7200",
+    "Age": "6798",
+    "Vary": "Accept-Encoding",
+    "Alt-Svc": "h3=\u0022:443\u0022; ma=2592000, h3-29=\u0022:443\u0022; ma=2592000",
+    "Accept-Ranges": "none",
+    "Transfer-Encoding": "chunked"
+  },
+  "response_filename": "analytics.js"
+}

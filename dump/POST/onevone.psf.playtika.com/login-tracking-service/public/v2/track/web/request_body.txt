@@ -1,0 +1,1 @@
+{"clientType":"static-browser","guid":"bfc05c4f-3c1d-44e2-952e-a82f5663245d","osVersion":"10","osName":"Windows","clientTime":"2025-09-18T19:24:05+01:00"}

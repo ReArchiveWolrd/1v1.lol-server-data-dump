@@ -1,0 +1,1 @@
+k39cbu({"oo":false, "dm":true, "bd":false, "countryName":"United Kingdom", "countryCode":"GB", "region":"Fife", "city":"Dunfermline", "ip":"94.13.50.0", "rt":{} });

@@ -1,0 +1,34 @@
+{
+  "method": "POST",
+  "url": "https://prebid.a-mo.net/a/c",
+  "timestamp": "20250918_180728",
+  "query": "",
+  "headers": {
+    "Host": "prebid.a-mo.net",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0",
+    "Accept": "*/*",
+    "Accept-Language": "en-US,en;q=0.5",
+    "Content-Type": "text/plain",
+    "Origin": "https://1v1.lol",
+    "Connection": "keep-alive",
+    "Referer": "https://1v1.lol/",
+    "Cookie": "_sv3_7=1",
+    "Sec-Fetch-Dest": "empty",
+    "Sec-Fetch-Mode": "cors",
+    "Sec-Fetch-Site": "cross-site",
+    "Pragma": "no-cache",
+    "Cache-Control": "no-cache",
+    "Accept-Encoding": "gzip, deflate",
+    "Content-Length": "4464"
+  },
+  "response_status": 204,
+  "response_headers": {
+    "Cache-Control": "must-revalidate, max-age=0, private",
+    "Date": "Thu, 18 Sep 2025 18:07:27 GMT",
+    "Server": "envoy",
+    "Vary": "accept-encoding, Accept-Encoding",
+    "x-nbr": "8",
+    "x-envoy-upstream-service-time": "1"
+  },
+  "response_filename": "c"
+}

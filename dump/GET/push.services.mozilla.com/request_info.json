@@ -1,0 +1,32 @@
+{
+  "method": "GET",
+  "url": "https://push.services.mozilla.com/",
+  "timestamp": "20250918_183749",
+  "query": "",
+  "headers": {
+    "Host": "push.services.mozilla.com",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0",
+    "Accept": "*/*",
+    "Accept-Language": "en-US,en;q=0.5",
+    "Accept-Encoding": "gzip, deflate, br, zstd",
+    "Sec-WebSocket-Version": "13",
+    "Origin": "wss://push.services.mozilla.com/",
+    "Sec-WebSocket-Protocol": "push-notification",
+    "Sec-WebSocket-Extensions": "permessage-deflate",
+    "Sec-WebSocket-Key": "2zRqSknINnNH63lSVzsQdQ==",
+    "Connection": "keep-alive, Upgrade",
+    "Sec-Fetch-Dest": "empty",
+    "Sec-Fetch-Mode": "websocket",
+    "Sec-Fetch-Site": "cross-site",
+    "Pragma": "no-cache",
+    "Cache-Control": "no-cache",
+    "Upgrade": "websocket"
+  },
+  "response_status": 500,
+  "response_headers": {
+    "Date": "Thu, 18 Sep 2025 18:37:49 GMT",
+    "Via": "1.1 google",
+    "Alt-Svc": "h3=\u0022:443\u0022; ma=2592000, h3-29=\u0022:443\u0022; ma=2592000"
+  },
+  "response_filename": "unnamed.bin"
+}

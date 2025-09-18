@@ -1,0 +1,35 @@
+{
+  "method": "GET",
+  "url": "https://sync.springserve.com/usersync?redirect_url=https%3A%2F%2Fads.stickyadstv.com%2Fuser-registering%3FdataProviderId%3D1628%26userId%3DSS_UUID%26redirectId%3D1628\u0026gdpr_consent=CQX4zdgQX4zdgAcABBENB8FgAP_gAEPAAChQLmwMQAGgAcABAACQAGgAOgAegBFACZAFAAUQA2ADKAHiAk8BagC2wF4ALzAZgBPCCeQJ8QT7BPyCf4KBwUGBRUCi8FGQUbAo9BSAFJoKUApXBS0FL4KYgpkBTSCmwKfwVBBUSCowKowVUBViCrQKvwVhBWOCsoK2QVuBXGCuoK7QV4BXqCvwLBwWFBYmCxYLGwWPBaqC1gLdwW9Bb-C4ILmguZA7AA4ACAAEgANAAmABQAGUAicBagC8wJ4QTzBPSCfoJ_QUEBQiChYKGAUSgoqCiwFGQKOAUfApDBSQFJQKUQUuBS8CmQFPIKfgqABUaCpQKlgVOgqkCqYFVgKswVcBV2Cr4KwAVkArTBWwFbYK3groBXmCvgK-wWCBYWCxILFgWOAsmBZUCzIFngLQAWmgtWC1oFsILcAtzBbsFvALgAXCAuLBccFyILlguYAA.f_wACHgAAAAA\u0026gdpr=1\u0026us_privacy=1---",
+  "timestamp": "20250918_182154",
+  "query": "?redirect_url=https%3A%2F%2Fads.stickyadstv.com%2Fuser-registering%3FdataProviderId%3D1628%26userId%3DSS_UUID%26redirectId%3D1628\u0026gdpr_consent=CQX4zdgQX4zdgAcABBENB8FgAP_gAEPAAChQLmwMQAGgAcABAACQAGgAOgAegBFACZAFAAUQA2ADKAHiAk8BagC2wF4ALzAZgBPCCeQJ8QT7BPyCf4KBwUGBRUCi8FGQUbAo9BSAFJoKUApXBS0FL4KYgpkBTSCmwKfwVBBUSCowKowVUBViCrQKvwVhBWOCsoK2QVuBXGCuoK7QV4BXqCvwLBwWFBYmCxYLGwWPBaqC1gLdwW9Bb-C4ILmguZA7AA4ACAAEgANAAmABQAGUAicBagC8wJ4QTzBPSCfoJ_QUEBQiChYKGAUSgoqCiwFGQKOAUfApDBSQFJQKUQUuBS8CmQFPIKfgqABUaCpQKlgVOgqkCqYFVgKswVcBV2Cr4KwAVkArTBWwFbYK3groBXmCvgK-wWCBYWCxILFgWOAsmBZUCzIFngLQAWmgtWC1oFsILcAtzBbsFvALgAXCAuLBccFyILlguYAA.f_wACHgAAAAA\u0026gdpr=1\u0026us_privacy=1---",
+  "headers": {
+    "Host": "sync.springserve.com",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0",
+    "Accept": "image/avif,image/webp,image/png,image/svg\u002Bxml,image/*;q=0.8,*/*;q=0.5",
+    "Accept-Language": "en-US,en;q=0.5",
+    "Connection": "keep-alive",
+    "Referer": "https://eus.rubiconproject.com/",
+    "Sec-Fetch-Dest": "image",
+    "Sec-Fetch-Mode": "no-cors",
+    "Sec-Fetch-Site": "cross-site",
+    "Priority": "u=6, i",
+    "Pragma": "no-cache",
+    "Cache-Control": "no-cache",
+    "Accept-Encoding": "gzip, deflate"
+  },
+  "response_status": 200,
+  "response_headers": {
+    "Server": "nginx",
+    "Date": "Thu, 18 Sep 2025 18:21:54 GMT",
+    "Connection": "keep-alive",
+    "Access-Control-Allow-Origin": "*",
+    "Access-Control-Allow-Credentials": "true",
+    "Cache-Control": "no-cache",
+    "Pragma": "no-cache",
+    "x-sticky-vk": "1758219714769070-339",
+    "Set-Cookie": "UID=ef8b5b6acca0a8d7994f44b85b80beb; Domain=ads.stickyadstv.com; Expires=Sat, 18-Oct-2025 18:21:54 GMT; Path=/, uid-bp-41408=810449fd-7377-4962-8f84-897a0e7de1c7; Domain=ads.stickyadstv.com; Expires=Tue, 17-Mar-2026 18:21:54 GMT; Path=/",
+    "Transfer-Encoding": "chunked"
+  },
+  "response_filename": "usersync"
+}

@@ -1,0 +1,33 @@
+{
+  "method": "GET",
+  "url": "https://sync.richaudience.com/bf7c142f4339da0278e83698a02b0854/?referrer=https%3A%2F%2F1v1.lol%2F\u0026consentString=CQX4zdgQX4zdgAcABBENB8FgAP_gAEPAAChQLmwMQAGgAcABAACQAGgAOgAegBFACZAFAAUQA2ADKAHiAk8BagC2wF4ALzAZgBPCCeQJ8QT7BPyCf4KBwUGBRUCi8FGQUbAo9BSAFJoKUApXBS0FL4KYgpkBTSCmwKfwVBBUSCowKowVUBViCrQKvwVhBWOCsoK2QVuBXGCuoK7QV4BXqCvwLBwWFBYmCxYLGwWPBaqC1gLdwW9Bb-C4ILmguZA7AA4ACAAEgANAAmABQAGUAicBagC8wJ4QTzBPSCfoJ_QUEBQiChYKGAUSgoqCiwFGQKOAUfApDBSQFJQKUQUuBS8CmQFPIKfgqABUaCpQKlgVOgqkCqYFVgKswVcBV2Cr4KwAVkArTBWwFbYK3groBXmCvgK-wWCBYWCxILFgWOAsmBZUCzIFngLQAWmgtWC1oFsILcAtzBbsFvALgAXCAuLBccFyILlguYAA.f_wACHgAAAAA",
+  "timestamp": "20250918_182150",
+  "query": "?referrer=https%3A%2F%2F1v1.lol%2F\u0026consentString=CQX4zdgQX4zdgAcABBENB8FgAP_gAEPAAChQLmwMQAGgAcABAACQAGgAOgAegBFACZAFAAUQA2ADKAHiAk8BagC2wF4ALzAZgBPCCeQJ8QT7BPyCf4KBwUGBRUCi8FGQUbAo9BSAFJoKUApXBS0FL4KYgpkBTSCmwKfwVBBUSCowKowVUBViCrQKvwVhBWOCsoK2QVuBXGCuoK7QV4BXqCvwLBwWFBYmCxYLGwWPBaqC1gLdwW9Bb-C4ILmguZA7AA4ACAAEgANAAmABQAGUAicBagC8wJ4QTzBPSCfoJ_QUEBQiChYKGAUSgoqCiwFGQKOAUfApDBSQFJQKUQUuBS8CmQFPIKfgqABUaCpQKlgVOgqkCqYFVgKswVcBV2Cr4KwAVkArTBWwFbYK3groBXmCvgK-wWCBYWCxILFgWOAsmBZUCzIFngLQAWmgtWC1oFsILcAtzBbsFvALgAXCAuLBccFyILlguYAA.f_wACHgAAAAA",
+  "headers": {
+    "Host": "sync.richaudience.com",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0",
+    "Accept": "image/avif,image/webp,image/png,image/svg\u002Bxml,image/*;q=0.8,*/*;q=0.5",
+    "Accept-Language": "en-US,en;q=0.5",
+    "Referer": "https://1v1.lol/",
+    "Connection": "keep-alive",
+    "Cookie": "pdid=46b0691c-afb5-4dc6-827c-1zz1758206313; avcid-rub-uid=MFPIGRGE-11-J51F; avcid-sht-uid=a7d7f848-149e-49ff-8978-acc95c1b46c9; avcid-sov-uid=LW5KAQZH8zHlUyEjSqaf2qOK; avcid-apn-uid=9218122040003215140",
+    "Sec-Fetch-Dest": "image",
+    "Sec-Fetch-Mode": "no-cors",
+    "Sec-Fetch-Site": "cross-site",
+    "Priority": "u=6, i",
+    "Pragma": "no-cache",
+    "Cache-Control": "no-cache",
+    "Accept-Encoding": "gzip, deflate"
+  },
+  "response_status": 200,
+  "response_headers": {
+    "Server": "nginx/1.14.1",
+    "Date": "Thu, 18 Sep 2025 18:20:45 GMT",
+    "Connection": "keep-alive",
+    "X-Powered-By": "PHP/8.2.4",
+    "P3P": "CP=\u0022IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\u0022",
+    "Set-Cookie": "avcid-sht-uid=27eb0c89-8ad3-41af-948c-743d2c4cc98e; expires=Wed, 17 Dec 2025 18:20:45 GMT; Max-Age=7776000; path=/; domain=.richaudience.com; secure; HttpOnly; SameSite=None",
+    "Transfer-Encoding": "chunked"
+  },
+  "response_filename": "unnamed.bin"
+}

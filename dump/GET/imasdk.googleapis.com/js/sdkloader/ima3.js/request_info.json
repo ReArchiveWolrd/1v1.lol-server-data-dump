@@ -1,0 +1,37 @@
+{
+  "method": "GET",
+  "url": "https://imasdk.googleapis.com/js/sdkloader/ima3.js",
+  "timestamp": "20250918_181753",
+  "query": "",
+  "headers": {
+    "Host": "imasdk.googleapis.com",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0",
+    "Accept": "*/*",
+    "Accept-Language": "en-US,en;q=0.5",
+    "Connection": "keep-alive",
+    "Referer": "https://1v1.lol/",
+    "Sec-Fetch-Dest": "script",
+    "Sec-Fetch-Mode": "no-cors",
+    "Sec-Fetch-Site": "cross-site",
+    "Priority": "u=2",
+    "Pragma": "no-cache",
+    "Cache-Control": "no-cache",
+    "Accept-Encoding": "gzip, deflate"
+  },
+  "response_status": 200,
+  "response_headers": {
+    "P3P": "policyref=\u0022https://www.googleadservices.com/pagead/p3p.xml\u0022, CP=\u0022NOI DEV PSA PSD IVA IVD OTP OUR OTR IND OTC\u0022",
+    "Timing-Allow-Origin": "*",
+    "Cross-Origin-Resource-Policy": "cross-origin",
+    "Vary": "Accept-Encoding",
+    "Date": "Thu, 18 Sep 2025 18:17:53 GMT",
+    "Cache-Control": "max-age=900, private, stale-while-revalidate=3600",
+    "ETag": "13392395579696183672",
+    "Access-Control-Allow-Origin": "*",
+    "X-Content-Type-Options": "nosniff",
+    "Server": "cafe",
+    "X-XSS-Protection": "0",
+    "Alt-Svc": "h3=\u0022:443\u0022; ma=2592000, h3-29=\u0022:443\u0022; ma=2592000"
+  },
+  "response_filename": "ima3.js"
+}

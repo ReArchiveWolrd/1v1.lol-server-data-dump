@@ -1,0 +1,23 @@
+{
+  "method": "GET",
+  "url": "http://test.steampowered.com/204",
+  "timestamp": "20250918_181729",
+  "query": "",
+  "headers": {
+    "Cache-Control": "no-cache",
+    "Host": "test.steampowered.com",
+    "Accept": "text/html,*/*;q=0.9",
+    "accept-charset": "ISO-8859-1,utf-8,*;q=0.7",
+    "user-agent": "Valve/Steam HTTP Client 1.0",
+    "Accept-Encoding": "identity"
+  },
+  "response_status": 204,
+  "response_headers": {
+    "Accept-Ranges": "bytes",
+    "ETag": "\u0022d41d8cd98f00b204e9800998ecf8427e:1632937655.318639\u0022",
+    "Server": "AkamaiNetStorage",
+    "Date": "Thu, 18 Sep 2025 18:17:30 GMT",
+    "Connection": "keep-alive"
+  },
+  "response_filename": "204"
+}

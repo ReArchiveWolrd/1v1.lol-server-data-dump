@@ -1,0 +1,33 @@
+{
+  "method": "GET",
+  "url": "https://pagead2.googlesyndication.com/pagead/sodar?id=sodar2\u0026v=237\u0026li=gpt_m202509160101\u0026jk=8104352554617918\u0026rc=",
+  "timestamp": "20250918_182152",
+  "query": "?id=sodar2\u0026v=237\u0026li=gpt_m202509160101\u0026jk=8104352554617918\u0026rc=",
+  "headers": {
+    "Host": "pagead2.googlesyndication.com",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0",
+    "Accept": "image/avif,image/webp,image/png,image/svg\u002Bxml,image/*;q=0.8,*/*;q=0.5",
+    "Accept-Language": "en-US,en;q=0.5",
+    "Connection": "keep-alive",
+    "Referer": "https://www.google.com/",
+    "Sec-Fetch-Dest": "image",
+    "Sec-Fetch-Mode": "no-cors",
+    "Sec-Fetch-Site": "cross-site",
+    "Priority": "u=6, i",
+    "Pragma": "no-cache",
+    "Cache-Control": "no-cache",
+    "Accept-Encoding": "gzip, deflate"
+  },
+  "response_status": 204,
+  "response_headers": {
+    "P3P": "policyref=\u0022https://www.googleadservices.com/pagead/p3p.xml\u0022, CP=\u0022NOI DEV PSA PSD IVA IVD OTP OUR OTR IND OTC\u0022",
+    "Timing-Allow-Origin": "*",
+    "Cross-Origin-Resource-Policy": "cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Date": "Thu, 18 Sep 2025 18:21:52 GMT",
+    "Server": "cafe",
+    "X-XSS-Protection": "0",
+    "Alt-Svc": "h3=\u0022:443\u0022; ma=2592000, h3-29=\u0022:443\u0022; ma=2592000"
+  },
+  "response_filename": "sodar"
+}

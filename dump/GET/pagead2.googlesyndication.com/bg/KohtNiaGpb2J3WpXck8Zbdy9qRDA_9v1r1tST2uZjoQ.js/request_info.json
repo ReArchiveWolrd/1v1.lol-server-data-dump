@@ -1,0 +1,36 @@
+{
+  "method": "GET",
+  "url": "https://pagead2.googlesyndication.com/bg/KohtNiaGpb2J3WpXck8Zbdy9qRDA_9v1r1tST2uZjoQ.js",
+  "timestamp": "20250918_182152",
+  "query": "",
+  "headers": {
+    "Host": "pagead2.googlesyndication.com",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0",
+    "Accept": "*/*",
+    "Accept-Language": "en-US,en;q=0.5",
+    "Connection": "keep-alive",
+    "Referer": "https://ep2.adtrafficquality.google/",
+    "Sec-Fetch-Dest": "script",
+    "Sec-Fetch-Mode": "no-cors",
+    "Sec-Fetch-Site": "cross-site",
+    "Pragma": "no-cache",
+    "Cache-Control": "no-cache",
+    "Accept-Encoding": "gzip, deflate"
+  },
+  "response_status": 200,
+  "response_headers": {
+    "Accept-Ranges": "bytes",
+    "Vary": "Accept-Encoding",
+    "Content-Security-Policy-Report-Only": "require-trusted-types-for \u0027script\u0027; report-uri https://csp.withgoogle.com/csp/botguard-scs",
+    "Cross-Origin-Resource-Policy": "cross-origin",
+    "Cross-Origin-Opener-Policy": "same-origin; report-to=\u0022botguard-scs\u0022",
+    "Report-To": "{\u0022group\u0022:\u0022botguard-scs\u0022,\u0022max_age\u0022:2592000,\u0022endpoints\u0022:[{\u0022url\u0022:\u0022https://csp.withgoogle.com/csp/report-to/botguard-scs\u0022}]}",
+    "Date": "Thu, 18 Sep 2025 18:21:52 GMT",
+    "Cache-Control": "public, max-age=31536000",
+    "X-Content-Type-Options": "nosniff",
+    "Server": "sffe",
+    "X-XSS-Protection": "0",
+    "Alt-Svc": "h3=\u0022:443\u0022; ma=2592000, h3-29=\u0022:443\u0022; ma=2592000"
+  },
+  "response_filename": "KohtNiaGpb2J3WpXck8Zbdy9qRDA_9v1r1tST2uZjoQ.js"
+}

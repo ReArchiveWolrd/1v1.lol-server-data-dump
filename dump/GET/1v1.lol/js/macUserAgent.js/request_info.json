@@ -1,0 +1,37 @@
+{
+  "method": "GET",
+  "url": "https://1v1.lol/js/macUserAgent.js",
+  "timestamp": "20250918_181757",
+  "query": "",
+  "headers": {
+    "Host": "1v1.lol",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0",
+    "Accept": "*/*",
+    "Accept-Language": "en-US,en;q=0.5",
+    "Accept-Encoding": "gzip, deflate, br, zstd",
+    "Connection": "keep-alive",
+    "Referer": "https://1v1.lol/",
+    "Cookie": "OptanonConsent=isGpcEnabled=0\u0026datestamp=Thu\u002BSep\u002B18\u002B2025\u002B19%3A17%3A52\u002BGMT%2B0100\u002B(British\u002BSummer\u002BTime)\u0026version=202401.1.0\u0026browserGpcFlag=0\u0026isIABGlobal=false\u0026hosts=\u0026consentId=0c461e4b-bff7-43e0-bfd0-1f694e1c37ce\u0026interactionCount=1\u0026landingPath=NotLandingPage\u0026groups=C0002%3A1%2CC0004%3A1%2CC0001%3A1%2CV2STACK39%3A1\u0026geolocation=GB%3BENG\u0026AwaitingReconsent=false; OptanonAlertBoxClosed=2025-09-17T20:04:13.172Z; eupubconsent-v2=CQX4zdgQX4zdgAcABBENB8FgAP_gAEPAAChQLmwMQAGgAcABAACQAGgAOgAegBFACZAFAAUQA2ADKAHiAk8BagC2wF4ALzAZgBPCCeQJ8QT7BPyCf4KBwUGBRUCi8FGQUbAo9BSAFJoKUApXBS0FL4KYgpkBTSCmwKfwVBBUSCowKowVUBViCrQKvwVhBWOCsoK2QVuBXGCuoK7QV4BXqCvwLBwWFBYmCxYLGwWPBaqC1gLdwW9Bb-C4ILmguZA7AA4ACAAEgANAAmABQAGUAicBagC8wJ4QTzBPSCfoJ_QUEBQiChYKGAUSgoqCiwFGQKOAUfApDBSQFJQKUQUuBS8CmQFPIKfgqABUaCpQKlgVOgqkCqYFVgKswVcBV2Cr4KwAVkArTBWwFbYK3groBXmCvgK-wWCBYWCxILFgWOAsmBZUCzIFngLQAWmgtWC1oFsILcAtzBbsFvALgAXCAuLBccFyILlguYAA.f_wACHgAAAAA; OTAdditionalConsentString=1~959.1109.1329.1659.1985.1987.2275.2627.2833.3100.3309.14034.14133.14332.15731.16931.21233.23031.25131.25931.26031.26631.26831.27731.27831.28031.28731.28831.29631.32531.33931.34231.34631.36831.39131.39531.40632.41131.41531.43631.43731.43831.45931.47232.47531; _ga=GA1.2.1250946365.1758139465; _gid=GA1.2.1155899777.1758139465; __gads=ID=e8ab344606c2adf0:T=1758206014:RT=1758218985:S=ALNI_MaM4hWT7Hpv06mOwLU88fKodNxE2Q; __gpi=UID=0000128d89108542:T=1758206014:RT=1758218985:S=ALNI_MY4jpFZ7P6HIhKEeSnIpDbLSLkkQQ; __eoi=ID=c055c077519e26ec:T=1758206014:RT=1758218985:S=AA-AfjakZqPPVdN5N0j1lM46ffGT",
+    "Sec-Fetch-Dest": "script",
+    "Sec-Fetch-Mode": "no-cors",
+    "Sec-Fetch-Site": "same-origin",
+    "Pragma": "no-cache",
+    "Cache-Control": "no-cache"
+  },
+  "response_status": 200,
+  "response_headers": {
+    "Connection": "keep-alive",
+    "Cache-Control": "max-age=3600",
+    "ETag": "\u00225e37c0059175e6df634374afed4189441a208e66c2e85342d56b7ff157078120\u0022",
+    "Strict-Transport-Security": "max-age=31556926",
+    "Accept-Ranges": "bytes",
+    "Date": "Thu, 18 Sep 2025 18:17:57 GMT",
+    "X-Served-By": "cache-lhr-egll1980090-LHR",
+    "X-Cache": "HIT",
+    "X-Cache-Hits": "1",
+    "X-Timer": "S1758219478.791757,VS0,VE8",
+    "Vary": "x-fh-requested-host, accept-encoding",
+    "Alt-Svc": "h3=\u0022:443\u0022, h3-29=\u0022:443\u0022, h3-27=\u0022:443\u0022"
+  },
+  "response_filename": "macUserAgent.js"
+}

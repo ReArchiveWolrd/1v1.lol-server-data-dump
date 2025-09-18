@@ -1,0 +1,38 @@
+{
+  "method": "GET",
+  "url": "https://onevone.psf.playtika.com/messaging-nucleus/connection/messaging-nucleus-service-555569cfdf-j8brv/nucleus?transport_sub_protocol=v12.stomp\u0026transport_type=websocket\u0026socket_session=2674516661814777172",
+  "timestamp": "20250918_184849",
+  "query": "?transport_sub_protocol=v12.stomp\u0026transport_type=websocket\u0026socket_session=2674516661814777172",
+  "headers": {
+    "Host": "onevone.psf.playtika.com",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0",
+    "Accept": "*/*",
+    "Accept-Language": "en-US,en;q=0.5",
+    "Sec-WebSocket-Version": "13",
+    "Origin": "https://1v1.lol",
+    "Sec-WebSocket-Extensions": "permessage-deflate",
+    "Sec-WebSocket-Key": "kUkgpBvZhMVNlaccW235PA==",
+    "Connection": "keep-alive, Upgrade",
+    "Sec-Fetch-Dest": "empty",
+    "Sec-Fetch-Mode": "websocket",
+    "Sec-Fetch-Site": "cross-site",
+    "Pragma": "no-cache",
+    "Cache-Control": "no-cache",
+    "Upgrade": "websocket",
+    "Accept-Encoding": "gzip, deflate"
+  },
+  "response_status": 400,
+  "response_headers": {
+    "Vary": "Origin, Access-Control-Request-Method, Access-Control-Request-Headers",
+    "mgp-socket-session": "2674516661814777172",
+    "nucleus-engine-incident": "errorCode=1001;message=Handshake request invalid",
+    "X-DC": "CA1",
+    "Cache-Control": "no-store, no-cache, max-age=0",
+    "Pragma": "no-cache",
+    "Date": "Thu, 18 Sep 2025 18:48:49 GMT",
+    "Connection": "keep-alive",
+    "Server-Timing": "cdn-cache; desc=MISS, edge; dur=157, origin; dur=4, ak_p; desc=\u00221758221329077_1490900877_229681743_16096_12999_15_0_-\u0022;dur=1",
+    "Alt-Svc": "h3=\u0022:443\u0022; ma=93600"
+  },
+  "response_filename": "nucleus"
+}

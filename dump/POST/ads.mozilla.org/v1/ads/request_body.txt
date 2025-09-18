@@ -1,0 +1,1 @@
+{"context_id":"aa6f05b8-9026-413d-92ae-960613954180","placements":[{"placement":"newtab_stories_1","count":1},{"placement":"newtab_stories_2","count":1},{"placement":"newtab_stories_3","count":1},{"placement":"newtab_stories_4","count":1},{"placement":"newtab_stories_5","count":1},{"placement":"newtab_stories_6","count":1}],"blocks":[""]}

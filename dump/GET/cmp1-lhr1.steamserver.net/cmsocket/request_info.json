@@ -1,0 +1,26 @@
+{
+  "method": "GET",
+  "url": "https://cmp1-lhr1.steamserver.net:27020/cmsocket/",
+  "timestamp": "20250918_175906",
+  "query": "",
+  "headers": {
+    "Upgrade": "websocket",
+    "Sec-WebSocket-Version": "13",
+    "Sec-WebSocket-Key": "irgiKhhUr7Cet5e3f60E2g==",
+    "Host": "cmp1-lhr1.steamserver.net:27020",
+    "Accept": "text/html,*/*;q=0.9",
+    "accept-charset": "ISO-8859-1,utf-8,*;q=0.7",
+    "Connection": "upgrade",
+    "user-agent": "Valve/Steam HTTP Client 1.0",
+    "Accept-Encoding": "identity"
+  },
+  "response_status": 400,
+  "response_headers": {
+    "Server": "nginx/1.25.5",
+    "Date": "Thu, 18 Sep 2025 17:59:06 GMT",
+    "Connection": "keep-alive",
+    "Cache-Control": "must-revalidate, no-cache",
+    "Pragma": "no-cache"
+  },
+  "response_filename": "unnamed.bin"
+}

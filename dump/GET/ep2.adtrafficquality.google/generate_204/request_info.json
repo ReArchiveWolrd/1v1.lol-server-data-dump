@@ -1,0 +1,28 @@
+{
+  "method": "GET",
+  "url": "https://ep2.adtrafficquality.google/generate_204?yWPkBA",
+  "timestamp": "20250918_182155",
+  "query": "?yWPkBA",
+  "headers": {
+    "Host": "ep2.adtrafficquality.google",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0",
+    "Accept": "image/avif,image/webp,image/png,image/svg\u002Bxml,image/*;q=0.8,*/*;q=0.5",
+    "Accept-Language": "en-US,en;q=0.5",
+    "Connection": "keep-alive",
+    "Referer": "https://ep2.adtrafficquality.google/sodar/sodar2/237/runner.html",
+    "Sec-Fetch-Dest": "image",
+    "Sec-Fetch-Mode": "no-cors",
+    "Sec-Fetch-Site": "same-origin",
+    "Priority": "u=5, i",
+    "Pragma": "no-cache",
+    "Cache-Control": "no-cache",
+    "Accept-Encoding": "gzip, deflate"
+  },
+  "response_status": 204,
+  "response_headers": {
+    "Cross-Origin-Resource-Policy": "cross-origin",
+    "Date": "Thu, 18 Sep 2025 18:21:55 GMT",
+    "Alt-Svc": "h3=\u0022:443\u0022; ma=2592000, h3-29=\u0022:443\u0022; ma=2592000"
+  },
+  "response_filename": "generate_204"
+}

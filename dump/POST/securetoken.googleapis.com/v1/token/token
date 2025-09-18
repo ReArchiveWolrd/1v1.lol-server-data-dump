@@ -1,0 +1,7 @@
+{
+  "error": {
+    "code": 400,
+    "message": "Invalid JSON payload received. Unexpected token.\ngrant_type=refresh_t\n^",
+    "status": "INVALID_ARGUMENT"
+  }
+}

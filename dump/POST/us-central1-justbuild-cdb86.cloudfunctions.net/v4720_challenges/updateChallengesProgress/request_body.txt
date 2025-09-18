@@ -1,0 +1,1 @@
+dailyChallengesUpdated=%7b%2251%22%3a1%7d&seasonalChallengesUpdated=%7b%221%22%3a1%2c%225%22%3a1%7d
