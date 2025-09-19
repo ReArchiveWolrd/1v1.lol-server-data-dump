@@ -1,1 +1,1 @@
-{"error":"Couldn't load user ID"}
+{"Events":{"lol.1v1.events.ElectroHunt":{"Occurences":{"9725463c-59e6-6a5f-c1f4-2918302ffa7f":{"XP":300,"EarnedTiers":[],"ClaimedTiers":[{"Tier":0,"Rewards":[{"RewardType":"Product","ProductID":"lol.1v1.lolbox.lite"}]},{"Tier":1,"Rewards":[{"RewardType":"LOLTokens","Amount":5}]},{"Tier":2,"Rewards":[{"RewardType":"Product","ProductID":"lol.1v1.lolbox.lite"}]},{"Tier":3,"Rewards":[{"RewardType":"Product","ProductID":"lol.1v1.lolbox.capsule_bronze"}]}]}}}}}
