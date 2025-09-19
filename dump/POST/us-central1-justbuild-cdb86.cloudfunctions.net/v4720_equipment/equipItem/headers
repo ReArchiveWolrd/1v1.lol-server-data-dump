@@ -1,0 +1,37 @@
+HTTP/2 200 
+x-powered-by: Express
+access-control-allow-origin: *
+content-type: application/json; charset=utf-8
+etag: W/"4-X/5TO4MPCKAyY0ipFgr6/IraRNs"
+function-execution-id: v9nwn19wes3u
+x-cloud-trace-context: 3a0ce23ae876be30ddd66948d4981a2b
+content-encoding: gzip
+date: Fri, 19 Sep 2025 17:52:01 GMT
+server: Google Frontend
+content-length: 24
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+X-Firefox-Spdy: h2
+
+request
+POST /v4720_equipment/equipItem HTTP/2
+Host: us-central1-justbuild-cdb86.cloudfunctions.net
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br, zstd
+Referer: https://1v1.lol/
+Content-Type: application/x-www-form-urlencoded
+firebase-config-ids: {"VersionID":"default","BattlePassID":"default","DailyRewardsID":"default","GameModesID":"default","RankXPGainPerGameModeId":"default","StoreSettingsID":"champions","SubscriptionsId":"default","ChampionsID":"default","ProductsID":"champions","GeneralConfigID":"web","AdsSettingsID":"default","ChallengesID":"default","TrophyRoadID":"default","RankRoadID":"champions","LootBoxesId":"default","GameplaySettingsID":"default","FTUEConfigID":"default","LimitedLockerSpinID":"default","XPBankID":"default","LeaderboardsID":"default","EquipmentID":"default","LootBoxesGachaId":"champions","ProgressionEventsID":"default","CheaterSettingsID":"default","AlbumSettingsID":"default","DailySpinsId":"champions"}
+auth-token: eyJhbGciOiJSUzI1NiIsImtpZCI6IjUwMDZlMjc5MTVhMTcwYWIyNmIxZWUzYjgxZDExNjU0MmYxMjRmMjAiLCJ0eXAiOiJKV1QifQ.eyJwcm92aWRlcl9pZCI6ImFub255bW91cyIsImlzcyI6Imh0dHBzOi8vc2VjdXJldG9rZW4uZ29vZ2xlLmNvbS9qdXN0YnVpbGQtY2RiODYiLCJhdWQiOiJqdXN0YnVpbGQtY2RiODYiLCJhdXRoX3RpbWUiOjE3NTgyMDYyNzQsInVzZXJfaWQiOiJQNnFnZTZZYVRTVzNCVzZvUm5USjc2Smx2dXYxIiwic3ViIjoiUDZxZ2U2WWFUU1czQlc2b1JuVEo3NkpsdnV2MSIsImlhdCI6MTc1ODMwMzg4NywiZXhwIjoxNzU4MzA3NDg3LCJmaXJlYmFzZSI6eyJpZGVudGl0aWVzIjp7fSwic2lnbl9pbl9wcm92aWRlciI6ImFub255bW91cyJ9fQ.cocGDt5SSMlASoiFzgVDGgkM_2ervwkb8TvV1bhKsPAoSbN4t62jCqEzY8cPz449Dz7gVWJIgBH9nsMBBwctu7zC6nMqok5aFPNxBHh7VBBiFtDqdfpwngdd0fuM7BHhg9T4J85pk4ZZpFQu66qTQ9kQ7kE-cGcNQzQKeMECX08l-fjqj0XCYRk8ctZFzkqhS-yvcw_YDtu3Gk_w8SmvYc9f7eLOWERXvmoHiZpcrNZ95GIZb1e0Hyd-GOdT4Z1pzdR8YiFaVgH4rxYjK73XaJBfGCLy8WmuAuQ92QVOZofIScdoLCTJW0DqOEFROfj9snvHMzS8FAlX0UcCwy3ahg
+provider: Anonymous
+hcap: eaf1d242196a660851980619479b338ba887a96bc31a019ce4083e5df78b244d
+Content-Length: 66
+Origin: https://1v1.lol
+Connection: keep-alive
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+Priority: u=4
+Pragma: no-cache
+Cache-Control: no-cache
+TE: trailers
