@@ -1,1 +1,587 @@
-{"GeneralData":{"ID":"P6qge6YaTSW3BW6oRnTJ76Jlvuv1","Nickname":"","Country":"","Region":"","IsMigrated":false,"BoxRating":0,"DuosRating":0,"Elo":1000,"OpenskillModel":{"Ranking":0,"RatingData":{"sigma":8.333333333333334,"mu":25}},"SoftCurrency":0,"CustomRating":0,"HardCurrency":193,"LoLTokens":10,"CreatedAt":"2025-09-18T14:37:56.545Z","Logins":{"LastLoginTime":1758293146044,"CurrentLoginTime":1758295279853,"TotalLogins":15,"DailyConsecutiveLogins":2},"Stats":{"TotalGamesPlayed":0,"TotalKills":0,"TotalDeaths":0,"Victories":{"1v1_Competitive_Migration":0,"1v1_Migration":0},"Defeats":{"1v1_Competitive_Migration":0,"1v1_Migration":0},"Ties":{"1v1_Competitive_Migration":0,"1v1_Migration":0},"ConsecutiveWins":0},"PrivacySettings":{"PrivacyVersion":"","HasSeenTailoredAdsPopup":false,"HasAcceptedTailoredAds":false},"Premium":{"AdsDisabled":false,"LTV":0,"DidMigrateAdsDisabled":true},"NonconsumablePacks":[],"XP":0,"RVData":{"Watched":0,"CurrentSkin":"","LastRvSkinTime":"1970-01-01T00:00:00.000Z"},"MatchHistory":{"MatchSampleTimestamp":0,"MatchesSinceSample":0,"Exceeds":0},"FriendInviteLink":{},"AgeGate":{"IsUnderage":false,"GuardianPermissionGranted":[],"ShouldShowUpdatedPermissionsPopup":false},"IsBanned":false},"Settings":{"Controls":{"WebGL_QualitySettings":"2","WebGL_ShowFPS":"True"},"SettingsVersion":2},"Skins":{"EquippedChampionSkins":{},"CharacterSkins":["lol.1v1.playerskins.pack.quick.default","lol.1v1.playerskins.pack.quick.default","lol.1v1.playerskins.pack.61","lol.1v1.playerskins.pack.62","lol.1v1.playerskins.pack.63","lol.1v1.playerskins.pack.64"],"EquippedWeaponSkins":["lol.1v1.weaponskins.melee.pickaxe.default"],"EquippedCharacterSkin":"lol.1v1.playerskins.pack.quick.default","OwnedEmotes":["lol.1v1.playeremotes.pack.5","lol.1v1.playerstickers.pack.6","lol.1v1.playeremotes.pack.3","lol.1v1.playerstickers.pack.16"],"EquippedEmotes":["lol.1v1.playeremotes.pack.5","lol.1v1.playerstickers.pack.6","lol.1v1.playeremotes.pack.3","lol.1v1.playerstickers.pack.16",null,null,null,null],"WeaponSkins":["lol.1v1.weaponskins.melee.pickaxe.default"],"CompensationVersion":1},"BattlePass":{"Seasons":{"79c2cafd-53ae-ffd4-188d-bb8ba42c3cc6":{"BattlePassId":"default","EarnedRewards":[],"ClaimedRewards":[{"Tier":0,"IsRewardPremium":false,"ProductId":"lol.1v1.lolbox.lite"},{"Tier":1,"IsRewardPremium":false,"ProductId":"lol.1v1.tokens.pack.05"},{"Tier":2,"IsRewardPremium":false,"ProductId":"lol.1v1.lolbox.lite"},{"Tier":3,"IsRewardPremium":false,"ProductId":"lol.1v1.lolbox.lite"},{"Tier":4,"IsRewardPremium":false,"ProductId":"lol.1v1.tokens.pack.05"},{"Tier":5,"IsRewardPremium":false,"ProductId":"lol.1v1.lolbox.lite"},{"Tier":6,"IsRewardPremium":false,"ProductId":"lol.1v1.lolbox.lite"},{"Tier":7,"IsRewardPremium":false,"ProductId":"lol.1v1.tokens.pack.05"}],"XP":270,"IsPremium":false,"IsFirstEngagement":false,"BoostEndTime":0,"BoostCooldown":0}},"XPBankData":{"LastXPRefreshTimestamp":1758206321662,"XPLeft":100000000}},"TrophyRoad":{"Seasons":{}},"RankRoad":{"Seasons":{},"AccountRoad":{"XP":0,"HighestXP":0,"AvailableRewards":[{"ProductID":"lol.1v1.lolbox.mystery_champion_rank_bronze_1","RewardType":"Product"},{"ProductID":"lol.1v1.lolbox.grenade_box_rank_bronze_2","RewardType":"Product"},{"ProductID":"lol.1v1.lolbox.mystery_champion_rank_silver_2","RewardType":"Product"}],"ClaimedRewards":[]}},"DailyRewards":{"Rewards":[],"InfluencerCampaign":{"LastSkinClaimTimestamp":0}},"Equipment":{"Equipment":{"lol.1v1.weapons.pump_shotgun":{"Level":4},"lol.1v1.weapons.scar":{"Level":4},"lol.1v1.armors.body.basic":{"Level":2}},"Loadouts":[{"LoadoutName":"","EquippedArmor":["lol.1v1.armors.body.basic"],"EquippedWeapons":["lol.1v1.weapons.scar","lol.1v1.weapons.pump_shotgun",""],"EquippedBuildsMaterial":[""]}],"EquippedLoadout":0,"AvailableLoadouts":2,"AvailableWeaponSlots":3,"AvailableArmorSlots":1,"UpgradeCards":{"lol.1v1.armors.body.basic":5,"lol.1v1.weapons.pump_shotgun":3,"lol.1v1.weapons.scar":1}},"Inventory":{"LootBoxes":[null,null,null],"Spins":[],"LootBoxesQueue":[],"MaxLootBoxesQueues":1,"CachedRewards":{}},"Challenges":{"CurrentFetchTime":1758211200000,"LastFetchTime":1758211200000,"LastDailyBonusClaimTime":0,"CurrentStreak":0,"DidClaimStreakBonus":false,"DidClaimDailyBonus":false,"DailyChallengesData":{"51":{"Points":3,"DidClaim":true,"IsNew":false},"52":{"Points":0,"DidClaim":false,"IsNew":false},"53":{"Points":0,"DidClaim":false,"IsNew":false}},"SeasonalChallengesData":{"0":{"Points":0,"DidClaim":false,"IsNew":false},"1":{"Points":4,"DidClaim":true,"IsNew":false},"2":{"Points":1,"DidClaim":false,"IsNew":false},"3":{"Points":0,"DidClaim":false,"IsNew":false},"4":{"Points":3,"DidClaim":false,"IsNew":false},"5":{"Points":6,"DidClaim":true,"IsNew":false},"6":{"Points":0,"DidClaim":false,"IsNew":false},"7":{"Points":0,"DidClaim":false,"IsNew":false},"8":{"Points":0,"DidClaim":false,"IsNew":false},"9":{"Points":0,"DidClaim":false,"IsNew":false},"10":{"Points":0,"DidClaim":false,"IsNew":false},"11":{"Points":3,"DidClaim":false,"IsNew":false},"12":{"Points":1,"DidClaim":false,"IsNew":false},"13":{"Points":0,"DidClaim":false,"IsNew":false},"14":{"Points":3,"DidClaim":false,"IsNew":false},"15":{"Points":0,"DidClaim":false,"IsNew":false},"16":{"Points":0,"DidClaim":false,"IsNew":false},"17":{"Points":0,"DidClaim":false,"IsNew":false}}},"Offers":{"Tier":0,"Timestamp":"2025-09-18T14:37:56.705Z","Offers":{"lol.1v1.offers.CCandThunderwave":{"Tier":0,"Timestamp":"2025-09-18T14:37:56.706Z"},"lol.1v1.offers.Spins":{"Tier":0,"Timestamp":"2025-09-18T14:37:56.706Z"},"lol.1v1.offers.Weapon_shards":{"Tier":0,"Timestamp":"2025-09-18T14:37:56.706Z"},"lol.1v1.offers.CCandKiller":{"Tier":0,"Timestamp":"2025-09-18T14:37:56.706Z"},"lol.1v1.offers.CCandHellfire":{"Tier":0,"Timestamp":"2025-09-18T14:37:56.706Z"},"lol.1v1.offers.MysteryPrize_Wow":{"Tier":0,"Timestamp":"2025-09-18T14:37:56.706Z"},"lol.1v1.offers.Champion_shards":{"Tier":0,"Timestamp":"2025-09-18T14:37:56.706Z"},"lol.1v1.offers.WeaponSkins":{"Tier":0,"Timestamp":"2025-09-18T14:37:56.706Z"},"lol.1v1.offers.WeaponsAndSkins":{"Tier":0,"Timestamp":"2025-09-18T14:37:56.706Z"},"lol.1v1.offers.Weapons":{"Tier":0,"Timestamp":"2025-09-18T14:37:56.706Z"},"lol.1v1.offers.CCandSkull":{"Tier":0,"Timestamp":"2025-09-18T14:37:56.706Z"},"lol.1v1.offers.QuickSkinsGems":{"Tier":0,"Timestamp":"2025-09-18T14:37:56.706Z"},"lol.1v1.offers.CCandDragonWhisper":{"Tier":0,"Timestamp":"2025-09-18T14:37:56.706Z"},"lol.1v1.offers.QuickSkins":{"Tier":0,"Timestamp":"2025-09-18T14:37:56.706Z"},"lol.1v1.offers.default":{"Tier":0,"Timestamp":"2025-09-18T14:37:56.705Z"}}},"Leaderboards":{"Nickname":"","Leaderboards":{},"IsBlacklisted":false},"Subscriptions":{"Subscriptions":{}},"ProgressionEvents":{"Events":{"lol.1v1.events.ElectroHunt":{"Occurences":{"9725463c-59e6-6a5f-c1f4-2918302ffa7f":{"XP":270,"EarnedTiers":[],"ClaimedTiers":[{"Tier":0,"Rewards":[{"RewardType":"Product","ProductID":"lol.1v1.lolbox.lite"}]},{"Tier":1,"Rewards":[{"RewardType":"LOLTokens","Amount":5}]},{"Tier":2,"Rewards":[{"RewardType":"Product","ProductID":"lol.1v1.lolbox.lite"}]},{"Tier":3,"Rewards":[{"RewardType":"Product","ProductID":"lol.1v1.lolbox.capsule_bronze"}]}]}}}}},"UserRV":{"BoxTimeCutter":{"LastRefreshTime":1758295280198,"RVsLeft":3},"HighValueRVOffer":{"LastRefreshTime":1758295280198,"RVsLeft":3}},"Champions":{"OwnedChampions":{"lol.1v1.champions.quick":{"Level":1}},"SelectedChampion":"lol.1v1.champions.quick","ChampionShards":{"lol.1v1.champions.quick":36}},"DailyModes":{"DailyModes":{}},"UserAlbumsData":{"UserAlbums":{"lol.1v1.album.elements_lab":{"Occurences":{"c095beef-87af-3cac-4a7d-b0fee6d62258":{"ClaimedPrize":false,"UserSets":{"lol.1v1.album.set_Nature":{"ClaimedPrize":false,"UserCollectibles":["lol.1v1.album.collectible_C_Nature_Plant_Album_A","lol.1v1.album.collectible_C_Nature_Bridge_Album_A"]},"lol.1v1.album.set_Earth":{"ClaimedPrize":false,"UserCollectibles":["lol.1v1.album.collectible_D_Earth_Sapphire_Album_A","lol.1v1.album.collectible_D_Earth_Diamond_Album_A"]},"lol.1v1.album.set_Electricity":{"UserCollectibles":["lol.1v1.album.collectible_F_Electricity_Headphones_Album_A"],"ClaimedPrize":false},"lol.1v1.album.set_FireyDesert":{"ClaimedPrize":false,"UserCollectibles":["lol.1v1.album.collectible_B_FieryDesert_Cactus_Album_A","lol.1v1.album.collectible_B_FieryDesert_Oasis_Album_A","lol.1v1.album.collectible_B_FieryDesert_CowboyHat_Album_A","lol.1v1.album.collectible_B_FieryDesert_Fireplace_Album_A","lol.1v1.album.collectible_B_FieryDesert_Fossils_Album_A"]},"lol.1v1.album.set_Spirit":{"ClaimedPrize":false,"UserCollectibles":["lol.1v1.album.collectible_E_Spirit_Gong_Album_A","lol.1v1.album.collectible_E_Spirit_CrystalBall_Album_A","lol.1v1.album.collectible_E_Spirit_MagicRock_Album_A"]},"lol.1v1.album.set_IcyWater":{"ClaimedPrize":false,"UserCollectibles":["lol.1v1.album.collectible_A_IcyWater_SnowyMountain_Album_A","lol.1v1.album.collectible_A_IcyWater_Flamingo_Album_A","lol.1v1.album.collectible_A_IcyWater_Jacuzzi_Album_A","lol.1v1.album.collectible_A_IcyWater_Igloo_Album_A","lol.1v1.album.collectible_A_IcyWater_Shark_Album_A","lol.1v1.album.collectible_A_IcyWater_Fountain_Album_A"]}}}}}}},"PsfToken":"eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNFMUVuTC1CUWloUGZHVmo1VmtIWnVTQmZKejJGbF9WNVJwVmZJc2hNckEifQ.eyJmb28iOiJiYXIiLCJpYXQiOjE3NTgyOTUyODAsImV4cCI6MTc1ODkwMDA4MCwiYXVkIjoicHNmLWV4dGVybmFsLXVzZXItcmVnaXN0cmF0aW9uLXNlcnZpY2UiLCJpc3MiOiJwc2ZsaWdodC5jb20iLCJzdWIiOiJQNnFnZTZZYVRTVzNCVzZvUm5USjc2Smx2dXYxIn0.ijV9QjlAiJtsYa9sh55BIjD7L2WKsNmfAUOf-fbF10EmI74M47xP5cYzT2jd4StLXpreCGcUxb4Dx86rMEyVYn9LviVchMbDHRWk_c7jeyzhmqDBjjeEjrVykksVo46SMqG-lYC5f8Z0CP0WwiN14pdMZm5gz8zXJ6Q2yXAECWifleSOYhE--YlUbXoUl75g7UV26NWnmh6jCtWTRmaEVT9frG9q3Py9UFe3Rpj4Xz5VQrdQOle9XKykCmSqtHE4DN49em8HLl_b3MdcHuV6BImqOTNLPRzSXlWdBgwemu_nfcvxBQP2zkI8qlIw5zKmZ4RW2WaoP5QJmDKlsed_yw","DevicePerformanceTier":0}
+{
+  "GeneralData": {
+    "ID": "P6qge6YaTSW3BW6oRnTJ76Jlvuv1",
+    "Nickname": "",
+    "Country": "",
+    "Region": "",
+    "IsMigrated": false,
+    "BoxRating": 0,
+    "DuosRating": 0,
+    "Elo": 1000,
+    "OpenskillModel": {
+      "Ranking": 0,
+      "RatingData": {
+        "sigma": 8.333333333333334,
+        "mu": 25
+      }
+    },
+    "SoftCurrency": 0,
+    "CustomRating": 0,
+    "HardCurrency": 193,
+    "LoLTokens": 10,
+    "CreatedAt": "2025-09-18T14:37:56.545Z",
+    "Logins": {
+      "LastLoginTime": 1758293146044,
+      "CurrentLoginTime": 1758295279853,
+      "TotalLogins": 15,
+      "DailyConsecutiveLogins": 2
+    },
+    "Stats": {
+      "TotalGamesPlayed": 0,
+      "TotalKills": 0,
+      "TotalDeaths": 0,
+      "Victories": {
+        "1v1_Competitive_Migration": 0,
+        "1v1_Migration": 0
+      },
+      "Defeats": {
+        "1v1_Competitive_Migration": 0,
+        "1v1_Migration": 0
+      },
+      "Ties": {
+        "1v1_Competitive_Migration": 0,
+        "1v1_Migration": 0
+      },
+      "ConsecutiveWins": 0
+    },
+    "PrivacySettings": {
+      "PrivacyVersion": "",
+      "HasSeenTailoredAdsPopup": false,
+      "HasAcceptedTailoredAds": false
+    },
+    "Premium": {
+      "AdsDisabled": false,
+      "LTV": 0,
+      "DidMigrateAdsDisabled": true
+    },
+    "NonconsumablePacks": [],
+    "XP": 0,
+    "RVData": {
+      "Watched": 0,
+      "CurrentSkin": "",
+      "LastRvSkinTime": "1970-01-01T00:00:00.000Z"
+    },
+    "MatchHistory": {
+      "MatchSampleTimestamp": 0,
+      "MatchesSinceSample": 0,
+      "Exceeds": 0
+    },
+    "FriendInviteLink": {},
+    "AgeGate": {
+      "IsUnderage": false,
+      "GuardianPermissionGranted": [],
+      "ShouldShowUpdatedPermissionsPopup": false
+    },
+    "IsBanned": false
+  },
+  "Settings": {
+    "Controls": {
+      "WebGL_QualitySettings": "2",
+      "WebGL_ShowFPS": "True"
+    },
+    "SettingsVersion": 2
+  },
+  "Skins": {
+    "EquippedChampionSkins": {},
+    "CharacterSkins": [
+      "lol.1v1.playerskins.pack.quick.default",
+      "lol.1v1.playerskins.pack.quick.default",
+      "lol.1v1.playerskins.pack.61",
+      "lol.1v1.playerskins.pack.62",
+      "lol.1v1.playerskins.pack.63",
+      "lol.1v1.playerskins.pack.64"
+    ],
+    "EquippedWeaponSkins": [
+      "lol.1v1.weaponskins.melee.pickaxe.default"
+    ],
+    "EquippedCharacterSkin": "lol.1v1.playerskins.pack.quick.default",
+    "OwnedEmotes": [
+      "lol.1v1.playeremotes.pack.5",
+      "lol.1v1.playerstickers.pack.6",
+      "lol.1v1.playeremotes.pack.3",
+      "lol.1v1.playerstickers.pack.16"
+    ],
+    "EquippedEmotes": [
+      "lol.1v1.playeremotes.pack.5",
+      "lol.1v1.playerstickers.pack.6",
+      "lol.1v1.playeremotes.pack.3",
+      "lol.1v1.playerstickers.pack.16",
+      null,
+      null,
+      null,
+      null
+    ],
+    "WeaponSkins": [
+      "lol.1v1.weaponskins.melee.pickaxe.default"
+    ],
+    "CompensationVersion": 1
+  },
+  "BattlePass": {
+    "Seasons": {
+      "79c2cafd-53ae-ffd4-188d-bb8ba42c3cc6": {
+        "BattlePassId": "default",
+        "EarnedRewards": [],
+        "ClaimedRewards": [
+          {
+            "Tier": 0,
+            "IsRewardPremium": false,
+            "ProductId": "lol.1v1.lolbox.lite"
+          },
+          {
+            "Tier": 1,
+            "IsRewardPremium": false,
+            "ProductId": "lol.1v1.tokens.pack.05"
+          },
+          {
+            "Tier": 2,
+            "IsRewardPremium": false,
+            "ProductId": "lol.1v1.lolbox.lite"
+          },
+          {
+            "Tier": 3,
+            "IsRewardPremium": false,
+            "ProductId": "lol.1v1.lolbox.lite"
+          },
+          {
+            "Tier": 4,
+            "IsRewardPremium": false,
+            "ProductId": "lol.1v1.tokens.pack.05"
+          },
+          {
+            "Tier": 5,
+            "IsRewardPremium": false,
+            "ProductId": "lol.1v1.lolbox.lite"
+          },
+          {
+            "Tier": 6,
+            "IsRewardPremium": false,
+            "ProductId": "lol.1v1.lolbox.lite"
+          },
+          {
+            "Tier": 7,
+            "IsRewardPremium": false,
+            "ProductId": "lol.1v1.tokens.pack.05"
+          }
+        ],
+        "XP": 270,
+        "IsPremium": false,
+        "IsFirstEngagement": false,
+        "BoostEndTime": 0,
+        "BoostCooldown": 0
+      }
+    },
+    "XPBankData": {
+      "LastXPRefreshTimestamp": 1758206321662,
+      "XPLeft": 100000000
+    }
+  },
+  "TrophyRoad": {
+    "Seasons": {}
+  },
+  "RankRoad": {
+    "Seasons": {},
+    "AccountRoad": {
+      "XP": 0,
+      "HighestXP": 0,
+      "AvailableRewards": [
+        {
+          "ProductID": "lol.1v1.lolbox.mystery_champion_rank_bronze_1",
+          "RewardType": "Product"
+        },
+        {
+          "ProductID": "lol.1v1.lolbox.grenade_box_rank_bronze_2",
+          "RewardType": "Product"
+        },
+        {
+          "ProductID": "lol.1v1.lolbox.mystery_champion_rank_silver_2",
+          "RewardType": "Product"
+        }
+      ],
+      "ClaimedRewards": []
+    }
+  },
+  "DailyRewards": {
+    "Rewards": [],
+    "InfluencerCampaign": {
+      "LastSkinClaimTimestamp": 0
+    }
+  },
+  "Equipment": {
+    "Equipment": {
+      "lol.1v1.weapons.pump_shotgun": {
+        "Level": 4
+      },
+      "lol.1v1.weapons.scar": {
+        "Level": 4
+      },
+      "lol.1v1.armors.body.basic": {
+        "Level": 2
+      }
+    },
+    "Loadouts": [
+      {
+        "LoadoutName": "",
+        "EquippedArmor": [
+          "lol.1v1.armors.body.basic"
+        ],
+        "EquippedWeapons": [
+          "lol.1v1.weapons.scar",
+          "lol.1v1.weapons.pump_shotgun",
+          ""
+        ],
+        "EquippedBuildsMaterial": [
+          ""
+        ]
+      }
+    ],
+    "EquippedLoadout": 0,
+    "AvailableLoadouts": 2,
+    "AvailableWeaponSlots": 3,
+    "AvailableArmorSlots": 1,
+    "UpgradeCards": {
+      "lol.1v1.armors.body.basic": 5,
+      "lol.1v1.weapons.pump_shotgun": 3,
+      "lol.1v1.weapons.scar": 1
+    }
+  },
+  "Inventory": {
+    "LootBoxes": [
+      null,
+      null,
+      null
+    ],
+    "Spins": [],
+    "LootBoxesQueue": [],
+    "MaxLootBoxesQueues": 1,
+    "CachedRewards": {}
+  },
+  "Challenges": {
+    "CurrentFetchTime": 1758211200000,
+    "LastFetchTime": 1758211200000,
+    "LastDailyBonusClaimTime": 0,
+    "CurrentStreak": 0,
+    "DidClaimStreakBonus": false,
+    "DidClaimDailyBonus": false,
+    "DailyChallengesData": {
+      "51": {
+        "Points": 3,
+        "DidClaim": true,
+        "IsNew": false
+      },
+      "52": {
+        "Points": 0,
+        "DidClaim": false,
+        "IsNew": false
+      },
+      "53": {
+        "Points": 0,
+        "DidClaim": false,
+        "IsNew": false
+      }
+    },
+    "SeasonalChallengesData": {
+      "0": {
+        "Points": 0,
+        "DidClaim": false,
+        "IsNew": false
+      },
+      "1": {
+        "Points": 4,
+        "DidClaim": true,
+        "IsNew": false
+      },
+      "2": {
+        "Points": 1,
+        "DidClaim": false,
+        "IsNew": false
+      },
+      "3": {
+        "Points": 0,
+        "DidClaim": false,
+        "IsNew": false
+      },
+      "4": {
+        "Points": 3,
+        "DidClaim": false,
+        "IsNew": false
+      },
+      "5": {
+        "Points": 6,
+        "DidClaim": true,
+        "IsNew": false
+      },
+      "6": {
+        "Points": 0,
+        "DidClaim": false,
+        "IsNew": false
+      },
+      "7": {
+        "Points": 0,
+        "DidClaim": false,
+        "IsNew": false
+      },
+      "8": {
+        "Points": 0,
+        "DidClaim": false,
+        "IsNew": false
+      },
+      "9": {
+        "Points": 0,
+        "DidClaim": false,
+        "IsNew": false
+      },
+      "10": {
+        "Points": 0,
+        "DidClaim": false,
+        "IsNew": false
+      },
+      "11": {
+        "Points": 3,
+        "DidClaim": false,
+        "IsNew": false
+      },
+      "12": {
+        "Points": 1,
+        "DidClaim": false,
+        "IsNew": false
+      },
+      "13": {
+        "Points": 0,
+        "DidClaim": false,
+        "IsNew": false
+      },
+      "14": {
+        "Points": 3,
+        "DidClaim": false,
+        "IsNew": false
+      },
+      "15": {
+        "Points": 0,
+        "DidClaim": false,
+        "IsNew": false
+      },
+      "16": {
+        "Points": 0,
+        "DidClaim": false,
+        "IsNew": false
+      },
+      "17": {
+        "Points": 0,
+        "DidClaim": false,
+        "IsNew": false
+      }
+    }
+  },
+  "Offers": {
+    "Tier": 0,
+    "Timestamp": "2025-09-18T14:37:56.705Z",
+    "Offers": {
+      "lol.1v1.offers.CCandThunderwave": {
+        "Tier": 0,
+        "Timestamp": "2025-09-18T14:37:56.706Z"
+      },
+      "lol.1v1.offers.Spins": {
+        "Tier": 0,
+        "Timestamp": "2025-09-18T14:37:56.706Z"
+      },
+      "lol.1v1.offers.Weapon_shards": {
+        "Tier": 0,
+        "Timestamp": "2025-09-18T14:37:56.706Z"
+      },
+      "lol.1v1.offers.CCandKiller": {
+        "Tier": 0,
+        "Timestamp": "2025-09-18T14:37:56.706Z"
+      },
+      "lol.1v1.offers.CCandHellfire": {
+        "Tier": 0,
+        "Timestamp": "2025-09-18T14:37:56.706Z"
+      },
+      "lol.1v1.offers.MysteryPrize_Wow": {
+        "Tier": 0,
+        "Timestamp": "2025-09-18T14:37:56.706Z"
+      },
+      "lol.1v1.offers.Champion_shards": {
+        "Tier": 0,
+        "Timestamp": "2025-09-18T14:37:56.706Z"
+      },
+      "lol.1v1.offers.WeaponSkins": {
+        "Tier": 0,
+        "Timestamp": "2025-09-18T14:37:56.706Z"
+      },
+      "lol.1v1.offers.WeaponsAndSkins": {
+        "Tier": 0,
+        "Timestamp": "2025-09-18T14:37:56.706Z"
+      },
+      "lol.1v1.offers.Weapons": {
+        "Tier": 0,
+        "Timestamp": "2025-09-18T14:37:56.706Z"
+      },
+      "lol.1v1.offers.CCandSkull": {
+        "Tier": 0,
+        "Timestamp": "2025-09-18T14:37:56.706Z"
+      },
+      "lol.1v1.offers.QuickSkinsGems": {
+        "Tier": 0,
+        "Timestamp": "2025-09-18T14:37:56.706Z"
+      },
+      "lol.1v1.offers.CCandDragonWhisper": {
+        "Tier": 0,
+        "Timestamp": "2025-09-18T14:37:56.706Z"
+      },
+      "lol.1v1.offers.QuickSkins": {
+        "Tier": 0,
+        "Timestamp": "2025-09-18T14:37:56.706Z"
+      },
+      "lol.1v1.offers.default": {
+        "Tier": 0,
+        "Timestamp": "2025-09-18T14:37:56.705Z"
+      }
+    }
+  },
+  "Leaderboards": {
+    "Nickname": "",
+    "Leaderboards": {},
+    "IsBlacklisted": false
+  },
+  "Subscriptions": {
+    "Subscriptions": {}
+  },
+  "ProgressionEvents": {
+    "Events": {
+      "lol.1v1.events.ElectroHunt": {
+        "Occurences": {
+          "9725463c-59e6-6a5f-c1f4-2918302ffa7f": {
+            "XP": 270,
+            "EarnedTiers": [],
+            "ClaimedTiers": [
+              {
+                "Tier": 0,
+                "Rewards": [
+                  {
+                    "RewardType": "Product",
+                    "ProductID": "lol.1v1.lolbox.lite"
+                  }
+                ]
+              },
+              {
+                "Tier": 1,
+                "Rewards": [
+                  {
+                    "RewardType": "LOLTokens",
+                    "Amount": 5
+                  }
+                ]
+              },
+              {
+                "Tier": 2,
+                "Rewards": [
+                  {
+                    "RewardType": "Product",
+                    "ProductID": "lol.1v1.lolbox.lite"
+                  }
+                ]
+              },
+              {
+                "Tier": 3,
+                "Rewards": [
+                  {
+                    "RewardType": "Product",
+                    "ProductID": "lol.1v1.lolbox.capsule_bronze"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "UserRV": {
+    "BoxTimeCutter": {
+      "LastRefreshTime": 1758295280198,
+      "RVsLeft": 3
+    },
+    "HighValueRVOffer": {
+      "LastRefreshTime": 1758295280198,
+      "RVsLeft": 3
+    }
+  },
+  "Champions": {
+    "OwnedChampions": {
+      "lol.1v1.champions.quick": {
+        "Level": 1
+      }
+    },
+    "SelectedChampion": "lol.1v1.champions.quick",
+    "ChampionShards": {
+      "lol.1v1.champions.quick": 36
+    }
+  },
+  "DailyModes": {
+    "DailyModes": {}
+  },
+  "UserAlbumsData": {
+    "UserAlbums": {
+      "lol.1v1.album.elements_lab": {
+        "Occurences": {
+          "c095beef-87af-3cac-4a7d-b0fee6d62258": {
+            "ClaimedPrize": false,
+            "UserSets": {
+              "lol.1v1.album.set_Nature": {
+                "ClaimedPrize": false,
+                "UserCollectibles": [
+                  "lol.1v1.album.collectible_C_Nature_Plant_Album_A",
+                  "lol.1v1.album.collectible_C_Nature_Bridge_Album_A"
+                ]
+              },
+              "lol.1v1.album.set_Earth": {
+                "ClaimedPrize": false,
+                "UserCollectibles": [
+                  "lol.1v1.album.collectible_D_Earth_Sapphire_Album_A",
+                  "lol.1v1.album.collectible_D_Earth_Diamond_Album_A"
+                ]
+              },
+              "lol.1v1.album.set_Electricity": {
+                "UserCollectibles": [
+                  "lol.1v1.album.collectible_F_Electricity_Headphones_Album_A"
+                ],
+                "ClaimedPrize": false
+              },
+              "lol.1v1.album.set_FireyDesert": {
+                "ClaimedPrize": false,
+                "UserCollectibles": [
+                  "lol.1v1.album.collectible_B_FieryDesert_Cactus_Album_A",
+                  "lol.1v1.album.collectible_B_FieryDesert_Oasis_Album_A",
+                  "lol.1v1.album.collectible_B_FieryDesert_CowboyHat_Album_A",
+                  "lol.1v1.album.collectible_B_FieryDesert_Fireplace_Album_A",
+                  "lol.1v1.album.collectible_B_FieryDesert_Fossils_Album_A"
+                ]
+              },
+              "lol.1v1.album.set_Spirit": {
+                "ClaimedPrize": false,
+                "UserCollectibles": [
+                  "lol.1v1.album.collectible_E_Spirit_Gong_Album_A",
+                  "lol.1v1.album.collectible_E_Spirit_CrystalBall_Album_A",
+                  "lol.1v1.album.collectible_E_Spirit_MagicRock_Album_A"
+                ]
+              },
+              "lol.1v1.album.set_IcyWater": {
+                "ClaimedPrize": false,
+                "UserCollectibles": [
+                  "lol.1v1.album.collectible_A_IcyWater_SnowyMountain_Album_A",
+                  "lol.1v1.album.collectible_A_IcyWater_Flamingo_Album_A",
+                  "lol.1v1.album.collectible_A_IcyWater_Jacuzzi_Album_A",
+                  "lol.1v1.album.collectible_A_IcyWater_Igloo_Album_A",
+                  "lol.1v1.album.collectible_A_IcyWater_Shark_Album_A",
+                  "lol.1v1.album.collectible_A_IcyWater_Fountain_Album_A"
+                ]
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "PsfToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNFMUVuTC1CUWloUGZHVmo1VmtIWnVTQmZKejJGbF9WNVJwVmZJc2hNckEifQ.eyJmb28iOiJiYXIiLCJpYXQiOjE3NTgyOTUyODAsImV4cCI6MTc1ODkwMDA4MCwiYXVkIjoicHNmLWV4dGVybmFsLXVzZXItcmVnaXN0cmF0aW9uLXNlcnZpY2UiLCJpc3MiOiJwc2ZsaWdodC5jb20iLCJzdWIiOiJQNnFnZTZZYVRTVzNCVzZvUm5USjc2Smx2dXYxIn0.ijV9QjlAiJtsYa9sh55BIjD7L2WKsNmfAUOf-fbF10EmI74M47xP5cYzT2jd4StLXpreCGcUxb4Dx86rMEyVYn9LviVchMbDHRWk_c7jeyzhmqDBjjeEjrVykksVo46SMqG-lYC5f8Z0CP0WwiN14pdMZm5gz8zXJ6Q2yXAECWifleSOYhE--YlUbXoUl75g7UV26NWnmh6jCtWTRmaEVT9frG9q3Py9UFe3Rpj4Xz5VQrdQOle9XKykCmSqtHE4DN49em8HLl_b3MdcHuV6BImqOTNLPRzSXlWdBgwemu_nfcvxBQP2zkI8qlIw5zKmZ4RW2WaoP5QJmDKlsed_yw",
+  "DevicePerformanceTier": 0
+}
