@@ -1,10 +1,1 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="utf-8">
-<title>Error</title>
-</head>
-<body>
-<pre>Cannot GET /consumeRv</pre>
-</body>
-</html>
+{"dailySpinData":{"MaxSpins":0,"MaxRvs":2,"SpinsLeft":0,"RvsLeft":0,"LastTimeUsed":"2025-09-19T14:04:15.506Z"},"lootBoxContent":{"productsLoot":{"lol.1v1.lolbox.lite":{"count":1,"refundId":"lol.1v1.tokens.pack.1"}},"lootboxRewards":[{"RewardType":"LOLCoins","Amount":37},{"ProductID":"lol.1v1.champions.quick","RewardType":"Blueprints","Amount":3},{"ProductID":"lol.1v1.weapons.pump_shotgun","RewardType":"Blueprints","Amount":2},{"ProductID":"lol.1v1.weapons.scar","RewardType":"Blueprints","Amount":3},{"ProductID":"lol.1v1.armors.body.basic","RewardType":"Blueprints","Amount":2},{"ProductID":"lol.1v1.lolbox.capsule_bronze","RewardType":"Product","Amount":1,"ExtraData":[{"ProductID":"lol.1v1.album.collectible_A_IcyWater_Fountain_Album_A","RewardType":"Product","Amount":1},{"ProductID":"lol.1v1.album.collectible_D_Earth_Fuji_Album_A","RewardType":"Product","Amount":1},{"ProductID":"lol.1v1.album.collectible_F_Electricity_Headphones_Album_A","RewardType":"Product","Amount":1}]}],"lootboxId":"lol.1v1.lolbox.lite"}}
