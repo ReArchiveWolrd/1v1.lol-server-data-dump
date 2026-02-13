@@ -1,2 +1,2 @@
-## 1v1.lol-data-dump
-a dump of 1v1.lol packets from the server data and a webgl build as well
+### 1v1.lol-data-dump
+this is a request dump and file dump of 1v1.lol from the server data and include a webgl build as well
